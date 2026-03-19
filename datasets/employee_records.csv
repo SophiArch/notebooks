@@ -1,0 +1,1202 @@
+employee_id,department,role,salary,years_exp,performance,region
+1690,Marketing,Marketing Coordinator,70900.0,1,meets_expectations,Bristol
+1049,Engineering,Lead Engineer,74200.0,18,exceeds_expectations,Manchester
+1958,Operations,Operations Manager,83300.0,11,exceeds_expectations,Bristol
+1975,Operations,Senior Operations Manager,107700.0,16,exceeds_expectations,London
+1414,Engineering,Engineer,95000.0,9,meets_expectations,Edinburgh
+1805,Marketing,Marketing Coordinator,80700.0,0,below_expectations,Edinburgh
+1716,Marketing,Marketing Specialist,90700.0,9,below_expectations,Manchester
+1926,Operations,Senior Operations Manager,100800.0,15,meets_expectations,London
+2001,Operations,Operations Analyst,72000.0,9,meets_expectations,Bristol
+1260,Engineering,Junior Engineer,106900.0,1,meets_expectations,Manchester
+1299,Engineering,Lead Engineer,109800.0,17,meets_expectations,Birmingham
+2195,Sales,Senior Account Manager,65500.0,13,exceeds_expectations,London
+1625,Marketing,Marketing Specialist,77200.0,5,meets_expectations,London
+2043,Operations,Operations Analyst,62200.0,6,exceeds_expectations,Edinburgh
+1608,Marketing,Marketing Manager,68800.0,12,exceeds_expectations,Manchester
+1315,Engineering,Lead Engineer,104700.0,19,meets_expectations,Birmingham
+2121,Operations,Operations Coordinator,58800.0,3,exceeds_expectations,London
+1727,Marketing,Marketing Specialist,60300.0,9,exceeds_expectations,Manchester
+1248,Engineering,Senior Engineer,110700.0,14,meets_expectations,London
+1440,HR,HR Coordinator,47700.0,4,meets_expectations,London
+1221,Engineering,Lead Engineer,130500.0,15,meets_expectations,Edinburgh
+1888,Operations,Senior Operations Manager,111600.0,18,meets_expectations,Birmingham
+2169,Sales,Account Manager,48400.0,8,below_expectations,Bristol
+1704,Marketing,Marketing Coordinator,59500.0,1,below_expectations,Edinburgh
+2137,Sales,Sales Representative,73300.0,2,below_expectations,London
+1032,Engineering,Engineer,94800.0,5,meets_expectations,London
+1448,HR,HR Coordinator,81800.0,2,below_expectations,Bristol
+2177,Sales,Senior Account Manager,85400.0,11,meets_expectations,Birmingham
+1053,Engineering,Junior Engineer,90500.0,3,meets_expectations,Edinburgh
+1038,Engineering,Lead Engineer,130300.0,15,exceeds_expectations,Bristol
+2065,Operations,Operations Coordinator,84100.0,1,exceeds_expectations,Edinburgh
+1296,Engineering,Lead Engineer,111600.0,15,exceeds_expectations,Edinburgh
+2102,Operations,Operations Coordinator,61500.0,3,meets_expectations,Edinburgh
+1132,Engineering,Senior Engineer,118100.0,13,meets_expectations,Edinburgh
+1168,Engineering,Senior Engineer,98000.0,13,meets_expectations,Manchester
+1288,Engineering,Junior Engineer,81000.0,4,below_expectations,Manchester
+2163,Sales,Sales Manager,83900.0,15,meets_expectations,Birmingham
+1401,Engineering,Senior Engineer,118600.0,10,meets_expectations,Manchester
+1468,HR,HR Business Partner,74200.0,17,meets_expectations,Bristol
+1089,Engineering,Junior Engineer,71000.0,3,exceeds_expectations,Bristol
+1924,Operations,Senior Operations Manager,94400.0,18,exceeds_expectations,Edinburgh
+1506,HR,HR Business Partner,74700.0,15,meets_expectations,Birmingham
+2187,Sales,Sales Manager,89300.0,15,exceeds_expectations,Birmingham
+1664,Marketing,Marketing Coordinator,88400.0,3,exceeds_expectations,Bristol
+1671,Marketing,Marketing Coordinator,51600.0,4,below_expectations,Edinburgh
+1456,HR,HR Coordinator,59400.0,3,meets_expectations,Edinburgh
+1828,Operations,Operations Coordinator,61600.0,2,meets_expectations,Birmingham
+1230,Engineering,Junior Engineer,84600.0,1,meets_expectations,Edinburgh
+1117,Engineering,Engineer,100400.0,6,exceeds_expectations,Bristol
+1941,Operations,Operations Coordinator,59400.0,1,meets_expectations,Bristol
+1289,Engineering,Lead Engineer,110500.0,18,below_expectations,Edinburgh
+1603,Marketing,Marketing Specialist,90000.0,8,below_expectations,Birmingham
+1880,Operations,Senior Operations Manager,98000.0,15,exceeds_expectations,Birmingham
+1188,Engineering,Engineer,126400.0,7,exceeds_expectations,Edinburgh
+1380,Engineering,Junior Engineer,93300.0,3,meets_expectations,Manchester
+1492,HR,HR Business Partner,105600.0,19,meets_expectations,Manchester
+1304,Engineering,Senior Engineer,126300.0,10,meets_expectations,Birmingham
+1520,HR,HR Advisor,60900.0,7,below_expectations,Edinburgh
+1011,Engineering,Junior Engineer,44100.0,2,meets_expectations,Birmingham
+1268,Engineering,Senior Engineer,123700.0,14,meets_expectations,Birmingham
+1835,Operations,Senior Operations Manager,83000.0,18,below_expectations,London
+1717,Marketing,Brand Manager,104300.0,20,meets_expectations,London
+1781,Marketing,Marketing Coordinator,76100.0,2,exceeds_expectations,Bristol
+2162,Sales,Sales Manager,86600.0,18,meets_expectations,Manchester
+1298,Engineering,Engineer,86400.0,8,meets_expectations,Bristol
+2165,Sales,Sales Manager,72900.0,19,below_expectations,London
+1037,Engineering,Engineer,145500.0,7,exceeds_expectations,London
+1473,HR,HR Advisor,56100.0,6,below_expectations,London
+1692,Marketing,Marketing Specialist,71000.0,9,meets_expectations,Bristol
+1096,Engineering,Senior Engineer,69200.0,11,meets_expectations,Manchester
+1339,Engineering,Junior Engineer,76300.0,2,meets_expectations,Birmingham
+2143,Sales,Sales Manager,73800.0,16,below_expectations,London
+2047,Operations,Operations Coordinator,74500.0,2,meets_expectations,London
+1955,Operations,Operations Analyst,91300.0,5,meets_expectations,Birmingham
+1321,Engineering,Lead Engineer,74800.0,18,below_expectations,Bristol
+1980,Operations,Senior Operations Manager,98800.0,15,exceeds_expectations,London
+1301,Engineering,Junior Engineer,93700.0,3,meets_expectations,Bristol
+1481,HR,HR Business Partner,58200.0,19,exceeds_expectations,Bristol
+1527,HR,HR Coordinator,28000,4,meets_expectations,Bristol
+1236,Engineering,Junior Engineer,63300.0,2,meets_expectations,Birmingham
+1607,Marketing,Brand Manager,100000.0,18,exceeds_expectations,Birmingham
+1006,Engineering,Lead Engineer,79400.0,18,meets_expectations,London
+1140,Engineering,Junior Engineer,37700.0,0,exceeds_expectations,Bristol
+1953,Operations,Operations Coordinator,85000.0,3,meets_expectations,Birmingham
+2032,Operations,Operations Analyst,82600.0,6,meets_expectations,Birmingham
+1318,Engineering,Junior Engineer,101300.0,2,below_expectations,London
+2016,Operations,Operations Coordinator,89200.0,1,exceeds_expectations,Edinburgh
+1824,Operations,Operations Analyst,97600.0,9,below_expectations,London
+1569,HR,HR Business Partner,87300.0,17,exceeds_expectations,Birmingham
+1571,HR,HR Coordinator,60000.0,3,exceeds_expectations,Bristol
+1918,Operations,Operations Coordinator,66600.0,3,exceeds_expectations,Edinburgh
+1887,Operations,Operations Coordinator,63800.0,0,meets_expectations,Edinburgh
+2060,Operations,Senior Operations Manager,94600.0,17,exceeds_expectations,Birmingham
+1358,Engineering,Lead Engineer,133800.0,19,below_expectations,Birmingham
+1271,Engineering,Senior Engineer,118200.0,10,below_expectations,Edinburgh
+1935,Operations,Operations Analyst,101700.0,5,meets_expectations,Manchester
+1511,HR,HR Advisor,72400.0,9,meets_expectations,London
+1630,Marketing,Marketing Manager,80100.0,10,exceeds_expectations,Edinburgh
+2004,Operations,Operations Analyst,42000.0,6,meets_expectations,Birmingham
+1435,HR,HR Business Partner,102700.0,17,below_expectations,Edinburgh
+1341,Engineering,Engineer,113000.0,7,meets_expectations,Manchester
+1843,Operations,Senior Operations Manager,92500.0,17,meets_expectations,London
+2023,Operations,Operations Analyst,94200.0,5,below_expectations,London
+1108,Engineering,Lead Engineer,158500.0,16,meets_expectations,Edinburgh
+1643,Marketing,Brand Manager,70900.0,15,exceeds_expectations,Edinburgh
+1103,Engineering,Senior Engineer,84900.0,13,meets_expectations,Bristol
+2068,Operations,Operations Manager,92100.0,11,below_expectations,Manchester
+1913,Operations,Operations Manager,75400.0,10,meets_expectations,Birmingham
+1057,Engineering,Junior Engineer,132100.0,2,below_expectations,Edinburgh
+1393,Engineering,Principal Engineer,102500.0,20,below_expectations,Edinburgh
+1870,Operations,Operations Manager,63300.0,12,meets_expectations,Bristol
+1442,HR,HR Manager,73600.0,11,exceeds_expectations,Bristol
+1681,Marketing,Brand Manager,91200.0,18,meets_expectations,London
+1101,Engineering,Engineer,31300.0,5,below_expectations,Bristol
+1125,Engineering,Lead Engineer,140200.0,19,meets_expectations,Bristol
+2171,Sales,Sales Representative,41800.0,1,meets_expectations,Manchester
+1351,Engineering,Lead Engineer,75700.0,18,exceeds_expectations,Edinburgh
+1121,Engineering,Senior Engineer,117200.0,13,meets_expectations,Edinburgh
+1431,HR,HR Business Partner,83100.0,17,below_expectations,Manchester
+2003,Operations,Operations Manager,73200.0,10,meets_expectations,Manchester
+1917,Operations,Senior Operations Manager,100500.0,18,exceeds_expectations,Bristol
+1834,Operations,Operations Manager,73800.0,12,below_expectations,Edinburgh
+1653,Marketing,Marketing Manager,89000.0,13,exceeds_expectations,Manchester
+1368,Engineering,Lead Engineer,127300.0,16,exceeds_expectations,Bristol
+1771,Marketing,Marketing Manager,91400.0,14,below_expectations,Manchester
+1623,Marketing,Marketing Manager,86000.0,12,meets_expectations,Manchester
+1113,Engineering,Lead Engineer,103400.0,19,meets_expectations,Manchester
+1756,Marketing,Marketing Coordinator,77600.0,2,meets_expectations,London
+1355,Engineering,Lead Engineer,109500.0,16,meets_expectations,Edinburgh
+1216,Engineering,Junior Engineer,103600.0,3,below_expectations,Bristol
+2161,Sales,Sales Representative,51000.0,2,meets_expectations,Manchester
+1822,Operations,Senior Operations Manager,59200.0,17,meets_expectations,Bristol
+1616,Marketing,Marketing Coordinator,78000.0,4,meets_expectations,Manchester
+1773,Marketing,Brand Manager,77800.0,18,exceeds_expectations,Manchester
+1180,Engineering,Junior Engineer,123900.0,1,meets_expectations,Manchester
+1934,Operations,Senior Operations Manager,114900.0,15,meets_expectations,Manchester
+1833,Operations,Operations Analyst,84200.0,5,meets_expectations,Bristol
+1695,Marketing,Marketing Coordinator,67200.0,4,exceeds_expectations,Edinburgh
+2111,Operations,Operations Analyst,60000.0,5,below_expectations,Birmingham
+1486,HR,HR Manager,64800.0,10,meets_expectations,Edinburgh
+1418,Engineering,Senior Engineer,97200.0,11,meets_expectations,Manchester
+2184,Sales,Sales Manager,88700.0,17,exceeds_expectations,Edinburgh
+2172,Sales,Senior Account Manager,82900.0,14,exceeds_expectations,Bristol
+1715,Marketing,Marketing Manager,104600.0,12,below_expectations,Birmingham
+1284,Engineering,Engineer,102800.0,6,below_expectations,Bristol
+1679,Marketing,Marketing Coordinator,63000.0,0,below_expectations,Manchester
+1334,Engineering,Engineer,76300.0,9,below_expectations,London
+1939,Operations,Senior Operations Manager,98400.0,20,below_expectations,London
+1005,Engineering,Engineer,87600.0,6,meets_expectations,Edinburgh
+1528,HR,HR Business Partner,92000.0,15,exceeds_expectations,Manchester
+1294,Engineering,Senior Engineer,56100.0,14,meets_expectations,London
+2154,Sales,Account Manager,62500.0,8,meets_expectations,Edinburgh
+2200,Sales,Sales Representative,62600.0,4,exceeds_expectations,Birmingham
+1977,Operations,Operations Analyst,86800.0,8,meets_expectations,Edinburgh
+1728,Marketing,Brand Manager,66100.0,15,meets_expectations,Manchester
+2055,Operations,Operations Manager,68300.0,12,meets_expectations,Bristol
+1200,Engineering,Junior Engineer,64200.0,3,meets_expectations,Birmingham
+1471,HR,HR Coordinator,74100.0,4,exceeds_expectations,Birmingham
+2061,Operations,Operations Analyst,73500.0,6,meets_expectations,Edinburgh
+1968,Operations,Operations Coordinator,63300.0,2,meets_expectations,Birmingham
+1118,Engineering,Junior Engineer,94700.0,2,meets_expectations,Bristol
+1646,Marketing,Marketing Manager,61300.0,11,below_expectations,Bristol
+2092,Operations,Senior Operations Manager,119200.0,20,meets_expectations,Bristol
+1503,HR,HR Advisor,65000.0,7,meets_expectations,Edinburgh
+1738,Marketing,Brand Manager,106700.0,17,meets_expectations,Bristol
+2020,Operations,Senior Operations Manager,82200.0,20,meets_expectations,Birmingham
+1800,Marketing,Brand Manager,100500.0,20,exceeds_expectations,Bristol
+1123,Engineering,Senior Engineer,128900.0,14,meets_expectations,Bristol
+2040,Operations,Senior Operations Manager,77800.0,15,below_expectations,Manchester
+1860,Operations,Operations Analyst,54500.0,5,exceeds_expectations,Manchester
+2175,Sales,Sales Manager,99700.0,19,meets_expectations,Birmingham
+1794,Marketing,Marketing Manager,87800.0,13,exceeds_expectations,Edinburgh
+1678,Marketing,Brand Manager,74400.0,15,below_expectations,Bristol
+1735,Marketing,Marketing Manager,69900.0,13,meets_expectations,Bristol
+1411,Engineering,Lead Engineer,82000.0,15,meets_expectations,London
+1817,Operations,Operations Coordinator,83200.0,1,exceeds_expectations,London
+2051,Operations,Operations Coordinator,50700.0,0,exceeds_expectations,Bristol
+1826,Operations,Operations Analyst,100300.0,5,meets_expectations,Bristol
+1176,Engineering,Engineer,34500.0,6,exceeds_expectations,Birmingham
+1030,Engineering,Junior Engineer,62200.0,3,meets_expectations,Manchester
+1337,Engineering,Engineer,74300.0,7,below_expectations,Birmingham
+1787,Marketing,Marketing Coordinator,71100.0,4,exceeds_expectations,Manchester
+1462,HR,HR Coordinator,54700.0,0,below_expectations,Edinburgh
+1998,Operations,Operations Coordinator,40000.0,4,below_expectations,Bristol
+1328,Engineering,Engineer,116500.0,6,exceeds_expectations,Birmingham
+1079,Engineering,Junior Engineer,87400.0,4,exceeds_expectations,Manchester
+2134,Sales,Sales Manager,104800.0,19,meets_expectations,London
+1066,Engineering,Senior Engineer,99000.0,12,below_expectations,Bristol
+1638,Marketing,Marketing Coordinator,49700.0,0,exceeds_expectations,Edinburgh
+1770,Marketing,Marketing Manager,102100.0,13,meets_expectations,Birmingham
+1686,Marketing,Marketing Manager,63400.0,14,meets_expectations,London
+2014,Operations,Operations Analyst,69600.0,7,exceeds_expectations,Bristol
+1307,Engineering,Senior Engineer,116900.0,11,meets_expectations,Bristol
+1485,HR,HR Coordinator,40100.0,1,meets_expectations,Edinburgh
+1859,Operations,Senior Operations Manager,86800.0,18,below_expectations,Edinburgh
+1144,Engineering,Engineer,121000.0,8,exceeds_expectations,Edinburgh
+1601,Marketing,Marketing Coordinator,92000.0,3,meets_expectations,Bristol
+1496,HR,HR Advisor,73100.0,9,below_expectations,Bristol
+1702,Marketing,Brand Manager,72500.0,15,meets_expectations,Birmingham
+1106,Engineering,Senior Engineer,99100.0,11,meets_expectations,Birmingham
+1815,Marketing,Brand Manager,75500.0,16,meets_expectations,Manchester
+1971,Operations,Senior Operations Manager,70300.0,16,below_expectations,Manchester
+1626,Marketing,Marketing Specialist,78700.0,5,meets_expectations,Edinburgh
+1854,Operations,Senior Operations Manager,111200.0,17,meets_expectations,Bristol
+1366,Engineering,Senior Engineer,121100.0,10,exceeds_expectations,Edinburgh
+1595,HR,HR Manager,87700.0,11,meets_expectations,Manchester
+1417,Engineering,Principal Engineer,181300.0,20,below_expectations,Edinburgh
+1120,Engineering,Principal Engineer,96900.0,20,meets_expectations,London
+1494,HR,HR Advisor,68100.0,9,meets_expectations,Edinburgh
+1602,Marketing,Brand Manager,66300.0,15,meets_expectations,London
+1818,Operations,Senior Operations Manager,94400.0,16,exceeds_expectations,London
+1050,Engineering,Junior Engineer,97900.0,3,below_expectations,Edinburgh
+1285,Engineering,Engineer,56600.0,6,meets_expectations,Manchester
+1182,Engineering,Engineer,79800.0,9,meets_expectations,Edinburgh
+2122,Operations,Operations Analyst,84000.0,9,meets_expectations,Bristol
+1923,Operations,Operations Manager,80100.0,10,meets_expectations,Manchester
+1798,Marketing,Brand Manager,91500.0,15,meets_expectations,Bristol
+1885,Operations,Operations Manager,79600.0,11,exceeds_expectations,Bristol
+1816,Operations,Operations Manager,82700.0,10,exceeds_expectations,Birmingham
+1224,Engineering,Senior Engineer,87800.0,10,exceeds_expectations,Bristol
+2024,Operations,Operations Manager,81100.0,13,meets_expectations,Birmingham
+1850,Operations,Operations Analyst,65300.0,5,meets_expectations,Edinburgh
+1981,Operations,Operations Coordinator,65300.0,3,meets_expectations,London
+1128,Engineering,Lead Engineer,130800.0,15,meets_expectations,Birmingham
+1737,Marketing,Marketing Specialist,105900.0,9,exceeds_expectations,Manchester
+1322,Engineering,Junior Engineer,57300.0,1,meets_expectations,Birmingham
+1734,Marketing,Marketing Manager,80300.0,12,meets_expectations,Bristol
+1274,Engineering,Junior Engineer,92300.0,3,meets_expectations,Bristol
+2112,Operations,Operations Manager,76500.0,14,meets_expectations,London
+2144,Sales,Senior Account Manager,76500.0,11,meets_expectations,London
+1526,HR,HR Advisor,45800.0,7,exceeds_expectations,Edinburgh
+1067,Engineering,Engineer,91300.0,7,below_expectations,Bristol
+1336,Engineering,Junior Engineer,142100.0,2,meets_expectations,London
+1218,Engineering,Junior Engineer,67700.0,2,meets_expectations,London
+1776,Marketing,Marketing Specialist,49300.0,7,below_expectations,Manchester
+1884,Operations,Operations Analyst,77300.0,7,below_expectations,London
+1647,Marketing,Marketing Coordinator,41900.0,1,meets_expectations,Birmingham
+1181,Engineering,Principal Engineer,140700.0,20,exceeds_expectations,Bristol
+1362,Engineering,Junior Engineer,85300.0,4,meets_expectations,London
+1155,Engineering,Lead Engineer,134400.0,19,meets_expectations,London
+1177,Engineering,Lead Engineer,147600.0,18,meets_expectations,London
+2135,Sales,Account Manager,47400.0,5,exceeds_expectations,Manchester
+1972,Operations,Senior Operations Manager,86900.0,15,meets_expectations,Edinburgh
+1644,Marketing,Brand Manager,81400.0,17,below_expectations,Birmingham
+2044,Operations,Operations Coordinator,47200.0,3,meets_expectations,Edinburgh
+1516,HR,HR Coordinator,66300.0,0,exceeds_expectations,Birmingham
+1187,Engineering,Engineer,128900.0,7,meets_expectations,Bristol
+1384,Engineering,Junior Engineer,101400.0,2,meets_expectations,London
+1847,Operations,Operations Analyst,79300.0,6,below_expectations,London
+1945,Operations,Operations Coordinator,44100.0,4,meets_expectations,Bristol
+1530,HR,HR Manager,65600.0,14,meets_expectations,Birmingham
+1561,HR,HR Manager,85300.0,13,exceeds_expectations,Edinburgh
+1841,Operations,Senior Operations Manager,103500.0,19,below_expectations,Manchester
+2191,Sales,Account Manager,81600.0,5,meets_expectations,Bristol
+1525,HR,HR Coordinator,42000.0,3,meets_expectations,Manchester
+2049,Operations,Operations Manager,71300.0,13,meets_expectations,London
+1169,Engineering,Lead Engineer,94300.0,15,exceeds_expectations,London
+1489,HR,HR Manager,86700.0,10,meets_expectations,Manchester
+1858,Operations,Senior Operations Manager,81000.0,16,meets_expectations,Bristol
+1463,HR,HR Business Partner,75200.0,16,meets_expectations,London
+1549,HR,HR Advisor,78600.0,8,exceeds_expectations,London
+1436,HR,HR Business Partner,100100.0,15,meets_expectations,Edinburgh
+1683,Marketing,Marketing Manager,55500.0,11,exceeds_expectations,Edinburgh
+1425,HR,HR Advisor,52100.0,5,meets_expectations,Birmingham
+1035,Engineering,Lead Engineer,143300.0,16,meets_expectations,London
+1349,Engineering,Engineer,145500.0,9,exceeds_expectations,Bristol
+2005,Operations,Operations Manager,89400.0,11,exceeds_expectations,Manchester
+2132,Sales,Sales Representative,48800.0,3,exceeds_expectations,Edinburgh
+2022,Operations,Operations Analyst,73700.0,9,meets_expectations,London
+1048,Engineering,Lead Engineer,123500.0,17,below_expectations,Bristol
+1413,Engineering,Engineer,72900.0,5,below_expectations,Birmingham
+1802,Marketing,Marketing Manager,60000.0,11,meets_expectations,Edinburgh
+1402,Engineering,Senior Engineer,127500.0,14,exceeds_expectations,Edinburgh
+1433,HR,HR Advisor,68100.0,6,meets_expectations,Birmingham
+1146,Engineering,Senior Engineer,80500.0,11,meets_expectations,London
+1083,Engineering,Junior Engineer,79500.0,4,exceeds_expectations,Bristol
+1710,Marketing,Marketing Specialist,54000.0,7,meets_expectations,London
+2189,Sales,Account Manager,62100.0,8,meets_expectations,Bristol
+1676,Marketing,Marketing Specialist,75500.0,6,exceeds_expectations,Bristol
+1476,HR,HR Business Partner,93600.0,19,meets_expectations,Edinburgh
+1593,HR,HR Business Partner,88400.0,16,meets_expectations,Birmingham
+1170,Engineering,Engineer,78100.0,9,meets_expectations,Manchester
+1153,Engineering,Senior Engineer,75000.0,12,below_expectations,Manchester
+1446,HR,HR Coordinator,59200.0,4,meets_expectations,Bristol
+1689,Marketing,Brand Manager,77300.0,20,exceeds_expectations,Manchester
+1554,HR,HR Coordinator,67800.0,4,meets_expectations,Birmingham
+1179,Engineering,Engineer,81300.0,5,below_expectations,London
+1029,Engineering,Junior Engineer,77500.0,3,meets_expectations,Birmingham
+1076,Engineering,Junior Engineer,52100.0,0,meets_expectations,Bristol
+1455,HR,HR Manager,81100.0,11,meets_expectations,Bristol
+1574,HR,HR Advisor,80000.0,9,meets_expectations,Bristol
+2063,Operations,Operations Analyst,79800.0,5,meets_expectations,London
+2110,Operations,Operations Manager,76600.0,13,meets_expectations,Bristol
+1143,Engineering,Senior Engineer,108300.0,10,exceeds_expectations,Edinburgh
+1281,Engineering,Junior Engineer,73800.0,1,below_expectations,Edinburgh
+1931,Operations,Senior Operations Manager,93600.0,18,below_expectations,Birmingham
+1004,Engineering,Lead Engineer,110400.0,16,meets_expectations,Bristol
+1467,HR,HR Manager,75800.0,11,meets_expectations,Bristol
+1749,Marketing,Marketing Coordinator,42400.0,1,meets_expectations,Birmingham
+2042,Operations,Senior Operations Manager,90600.0,17,below_expectations,London
+1429,HR,HR Advisor,74500.0,5,below_expectations,Birmingham
+1244,Engineering,Senior Engineer,121100.0,13,below_expectations,Bristol
+1960,Operations,Operations Coordinator,64100.0,3,meets_expectations,Edinburgh
+1112,Engineering,Engineer,90500.0,9,meets_expectations,Bristol
+1903,Operations,Operations Analyst,58200.0,8,meets_expectations,Manchester
+1813,Marketing,Brand Manager,78000.0,15,below_expectations,London
+1003,Engineering,Junior Engineer,83200.0,2,below_expectations,Manchester
+1279,Engineering,Senior Engineer,92900.0,14,meets_expectations,Birmingham
+1864,Operations,Operations Coordinator,97300.0,2,meets_expectations,Edinburgh
+1823,Operations,Operations Manager,85900.0,11,meets_expectations,Birmingham
+1722,Marketing,Marketing Manager,74800.0,11,exceeds_expectations,Birmingham
+1759,Marketing,Marketing Manager,102400.0,14,meets_expectations,London
+1130,Engineering,Lead Engineer,125200.0,17,below_expectations,Manchester
+1002,Engineering,Junior Engineer,116900.0,3,meets_expectations,Bristol
+1576,HR,HR Advisor,70400.0,6,meets_expectations,Edinburgh
+2030,Operations,Senior Operations Manager,101500.0,16,below_expectations,Bristol
+1061,Engineering,Lead Engineer,123800.0,15,exceeds_expectations,Bristol
+1810,Marketing,Marketing Specialist,49400.0,5,meets_expectations,Birmingham
+1148,Engineering,Lead Engineer,120800.0,19,below_expectations,Manchester
+1229,Engineering,Engineer,114100.0,6,meets_expectations,Edinburgh
+1746,Marketing,Marketing Coordinator,78000.0,0,meets_expectations,Edinburgh
+1902,Operations,Senior Operations Manager,105400.0,20,meets_expectations,Birmingham
+1606,Marketing,Marketing Specialist,52500.0,9,below_expectations,Manchester
+1027,Engineering,Lead Engineer,141800.0,19,exceeds_expectations,Bristol
+1656,Marketing,Marketing Manager,76200.0,10,below_expectations,London
+1508,HR,HR Advisor,71700.0,7,meets_expectations,London
+1348,Engineering,Senior Engineer,97500.0,14,below_expectations,Birmingham
+1077,Engineering,Engineer,111800.0,9,exceeds_expectations,Birmingham
+1900,Operations,Senior Operations Manager,92100.0,17,meets_expectations,Bristol
+1172,Engineering,Senior Engineer,87800.0,13,exceeds_expectations,Bristol
+1620,Marketing,Brand Manager,95900.0,16,meets_expectations,London
+1563,HR,HR Coordinator,71300.0,4,meets_expectations,Edinburgh
+1419,Engineering,Junior Engineer,106300.0,0,exceeds_expectations,London
+1948,Operations,Operations Analyst,82700.0,6,meets_expectations,Edinburgh
+1194,Engineering,Lead Engineer,128000.0,19,meets_expectations,London
+1877,Operations,Operations Coordinator,63000.0,4,exceeds_expectations,Birmingham
+1490,HR,HR Manager,80000.0,14,exceeds_expectations,Birmingham
+1592,HR,HR Advisor,63700.0,5,below_expectations,London
+1943,Operations,Operations Analyst,67100.0,6,meets_expectations,London
+1730,Marketing,Marketing Manager,75400.0,11,exceeds_expectations,Manchester
+2018,Operations,Operations Coordinator,54500.0,1,below_expectations,Birmingham
+1186,Engineering,Lead Engineer,133200.0,18,exceeds_expectations,London
+1984,Operations,Operations Manager,75000.0,11,exceeds_expectations,Manchester
+1629,Marketing,Marketing Specialist,63000.0,6,below_expectations,Edinburgh
+2173,Sales,Senior Account Manager,82300.0,14,meets_expectations,Edinburgh
+1982,Operations,Senior Operations Manager,99400.0,19,exceeds_expectations,Birmingham
+2064,Operations,Operations Analyst,89700.0,5,meets_expectations,Bristol
+1962,Operations,Senior Operations Manager,80600.0,20,exceeds_expectations,Manchester
+1684,Marketing,Brand Manager,84000.0,17,meets_expectations,Edinburgh
+1360,Engineering,Lead Engineer,147200.0,19,exceeds_expectations,Birmingham
+2153,Sales,Sales Manager,122200.0,16,exceeds_expectations,Bristol
+1371,Engineering,Lead Engineer,124700.0,19,meets_expectations,Edinburgh
+1693,Marketing,Marketing Coordinator,81900.0,3,meets_expectations,London
+1793,Marketing,Marketing Coordinator,81500.0,3,below_expectations,Bristol
+2160,Sales,Account Manager,73900.0,9,below_expectations,Birmingham
+2145,Sales,Account Manager,79400.0,5,meets_expectations,Edinburgh
+1642,Marketing,Marketing Coordinator,72300.0,2,meets_expectations,Bristol
+1013,Engineering,Junior Engineer,64000.0,1,exceeds_expectations,Manchester
+1541,HR,HR Advisor,66400.0,5,exceeds_expectations,Edinburgh
+1166,Engineering,Engineer,100200.0,8,meets_expectations,Bristol
+1518,HR,HR Manager,71400.0,13,meets_expectations,London
+1416,Engineering,Lead Engineer,97600.0,19,exceeds_expectations,Birmingham
+1548,HR,HR Advisor,54300.0,7,meets_expectations,Manchester
+2101,Operations,Senior Operations Manager,95800.0,19,meets_expectations,Birmingham
+1637,Marketing,Marketing Specialist,55000.0,6,meets_expectations,Bristol
+1779,Marketing,Marketing Coordinator,28000,3,meets_expectations,Birmingham
+1680,Marketing,Brand Manager,80400.0,17,meets_expectations,Edinburgh
+1711,Marketing,Marketing Coordinator,82500.0,3,below_expectations,Manchester
+1967,Operations,Senior Operations Manager,96000.0,15,meets_expectations,London
+1946,Operations,Operations Coordinator,83000.0,3,meets_expectations,London
+1047,Engineering,Senior Engineer,119600.0,10,meets_expectations,Manchester
+1769,Marketing,Marketing Specialist,102600.0,8,exceeds_expectations,Bristol
+1899,Operations,Operations Coordinator,42400.0,0,exceeds_expectations,Birmingham
+1238,Engineering,Lead Engineer,98000.0,17,meets_expectations,Birmingham
+1838,Operations,Operations Analyst,70400.0,5,exceeds_expectations,Bristol
+1444,HR,HR Advisor,61900.0,8,below_expectations,Birmingham
+1354,Engineering,Senior Engineer,105200.0,10,exceeds_expectations,London
+1028,Engineering,Engineer,108900.0,8,exceeds_expectations,London
+1415,Engineering,Engineer,85400.0,5,below_expectations,Birmingham
+1151,Engineering,Junior Engineer,93000.0,3,meets_expectations,Bristol
+1604,Marketing,Marketing Coordinator,48600.0,0,exceeds_expectations,Bristol
+1086,Engineering,Senior Engineer,91800.0,11,meets_expectations,Manchester
+1652,Marketing,Marketing Coordinator,40200.0,0,meets_expectations,Birmingham
+2062,Operations,Senior Operations Manager,68700.0,20,exceeds_expectations,Manchester
+1883,Operations,Senior Operations Manager,104400.0,18,exceeds_expectations,London
+2025,Operations,Operations Coordinator,84600.0,4,below_expectations,Edinburgh
+1226,Engineering,Lead Engineer,99000.0,18,exceeds_expectations,Edinburgh
+1627,Marketing,Marketing Specialist,70200.0,9,meets_expectations,Manchester
+1871,Operations,Senior Operations Manager,88700.0,19,meets_expectations,Bristol
+2056,Operations,Operations Analyst,88200.0,7,below_expectations,Edinburgh
+1755,Marketing,Marketing Specialist,65800.0,7,exceeds_expectations,Birmingham
+2128,Sales,Senior Account Manager,70600.0,11,meets_expectations,Edinburgh
+1901,Operations,Operations Analyst,77200.0,9,below_expectations,Birmingham
+1286,Engineering,Lead Engineer,95600.0,19,below_expectations,Manchester
+1021,Engineering,Senior Engineer,109800.0,10,exceeds_expectations,Edinburgh
+2083,Operations,Operations Manager,59800.0,11,meets_expectations,Birmingham
+1897,Operations,Operations Manager,73300.0,11,meets_expectations,Bristol
+1276,Engineering,Senior Engineer,123900.0,13,meets_expectations,Manchester
+1266,Engineering,Senior Engineer,108600.0,12,exceeds_expectations,Bristol
+1126,Engineering,Senior Engineer,61800.0,14,exceeds_expectations,Edinburgh
+1422,HR,HR Manager,85200.0,11,meets_expectations,London
+1234,Engineering,Junior Engineer,85500.0,3,meets_expectations,Edinburgh
+2031,Operations,Operations Analyst,57000.0,5,below_expectations,Manchester
+1618,Marketing,Marketing Manager,91700.0,14,meets_expectations,Birmingham
+1267,Engineering,Senior Engineer,125900.0,11,meets_expectations,London
+2086,Operations,Operations Analyst,82000.0,5,exceeds_expectations,Manchester
+2186,Sales,Account Manager,102600.0,5,below_expectations,Birmingham
+1911,Operations,Senior Operations Manager,96300.0,17,below_expectations,Birmingham
+1966,Operations,Operations Manager,62800.0,11,meets_expectations,Manchester
+1666,Marketing,Brand Manager,96200.0,16,exceeds_expectations,Birmingham
+1275,Engineering,Junior Engineer,73800.0,4,exceeds_expectations,Bristol
+1305,Engineering,Senior Engineer,141300.0,11,meets_expectations,London
+1293,Engineering,Junior Engineer,79000.0,1,meets_expectations,Birmingham
+1439,HR,HR Coordinator,77200.0,4,meets_expectations,Manchester
+1475,HR,HR Business Partner,68000.0,16,meets_expectations,Birmingham
+1202,Engineering,Lead Engineer,108800.0,19,below_expectations,Edinburgh
+2098,Operations,Senior Operations Manager,111600.0,19,below_expectations,Manchester
+1580,HR,HR Advisor,75200.0,7,meets_expectations,Birmingham
+1827,Operations,Operations Analyst,71400.0,7,meets_expectations,Birmingham
+1377,Engineering,Lead Engineer,100800.0,16,meets_expectations,Bristol
+1837,Operations,Operations Analyst,82600.0,8,meets_expectations,Edinburgh
+1973,Operations,Operations Coordinator,79700.0,4,exceeds_expectations,London
+2179,Sales,Senior Account Manager,87300.0,14,meets_expectations,Manchester
+1522,HR,HR Business Partner,90500.0,18,below_expectations,Birmingham
+1219,Engineering,Senior Engineer,144300.0,14,below_expectations,Birmingham
+1127,Engineering,Senior Engineer,109100.0,14,meets_expectations,Bristol
+1235,Engineering,Junior Engineer,80600.0,0,meets_expectations,Manchester
+1167,Engineering,Engineer,71100.0,8,meets_expectations,Manchester
+2151,Sales,Sales Representative,56700.0,0,below_expectations,London
+2039,Operations,Senior Operations Manager,97700.0,16,exceeds_expectations,Edinburgh
+1598,HR,HR Manager,75700.0,12,meets_expectations,Edinburgh
+1225,Engineering,Engineer,108100.0,8,meets_expectations,Bristol
+1942,Operations,Operations Analyst,63900.0,8,meets_expectations,Manchester
+1034,Engineering,Senior Engineer,138800.0,11,exceeds_expectations,Bristol
+1105,Engineering,Junior Engineer,40000.0,0,meets_expectations,Manchester
+1388,Engineering,Junior Engineer,56900.0,0,meets_expectations,Manchester
+1832,Operations,Operations Coordinator,52600.0,1,meets_expectations,Edinburgh
+1344,Engineering,Principal Engineer,78800.0,20,meets_expectations,Bristol
+1788,Marketing,Marketing Coordinator,70900.0,4,meets_expectations,Edinburgh
+2036,Operations,Senior Operations Manager,83900.0,19,meets_expectations,London
+1501,HR,HR Business Partner,83400.0,17,meets_expectations,Bristol
+1927,Operations,Senior Operations Manager,97800.0,17,below_expectations,Birmingham
+1008,Engineering,Junior Engineer,68800.0,3,below_expectations,London
+1505,HR,HR Coordinator,87300.0,0,below_expectations,Edinburgh
+2087,Operations,Operations Manager,98000.0,14,meets_expectations,Manchester
+1774,Marketing,Marketing Specialist,69600.0,9,meets_expectations,Birmingham
+1619,Marketing,Marketing Coordinator,71900.0,3,meets_expectations,Bristol
+1894,Operations,Senior Operations Manager,76300.0,15,exceeds_expectations,Manchester
+1084,Engineering,Senior Engineer,93600.0,13,meets_expectations,London
+1940,Operations,Operations Coordinator,85700.0,3,meets_expectations,London
+1243,Engineering,Junior Engineer,127700.0,0,meets_expectations,Birmingham
+1252,Engineering,Engineer,86800.0,6,exceeds_expectations,Edinburgh
+1199,Engineering,Engineer,62600.0,9,exceeds_expectations,Edinburgh
+1529,HR,HR Advisor,60800.0,7,exceeds_expectations,Bristol
+1633,Marketing,Marketing Specialist,61500.0,6,meets_expectations,Birmingham
+2000,Operations,Operations Analyst,64500.0,7,meets_expectations,Birmingham
+2146,Sales,Senior Account Manager,87100.0,12,meets_expectations,Bristol
+2045,Operations,Senior Operations Manager,101200.0,20,meets_expectations,London
+1241,Engineering,Engineer,97100.0,7,below_expectations,London
+1990,Operations,Operations Coordinator,58600.0,3,meets_expectations,Manchester
+1872,Operations,Senior Operations Manager,98700.0,19,meets_expectations,Edinburgh
+1258,Engineering,Engineer,84900.0,8,meets_expectations,Manchester
+1729,Marketing,Brand Manager,83300.0,15,exceeds_expectations,London
+1916,Operations,Operations Coordinator,76500.0,1,exceeds_expectations,Bristol
+1400,Engineering,Principal Engineer,97500.0,20,below_expectations,Bristol
+2002,Operations,Operations Analyst,81400.0,9,exceeds_expectations,Bristol
+1599,HR,HR Coordinator,44600.0,1,below_expectations,Edinburgh
+1820,Operations,Operations Analyst,59400.0,9,meets_expectations,Manchester
+1482,HR,HR Business Partner,92400.0,18,meets_expectations,London
+1613,Marketing,Brand Manager,89600.0,15,meets_expectations,Manchester
+1831,Operations,Operations Analyst,71100.0,7,exceeds_expectations,London
+2127,Sales,Sales Manager,82000.0,20,meets_expectations,Bristol
+1306,Engineering,Junior Engineer,77600.0,2,below_expectations,London
+1119,Engineering,Engineer,90900.0,6,meets_expectations,Manchester
+1947,Operations,Senior Operations Manager,93000.0,15,meets_expectations,Bristol
+1589,HR,HR Business Partner,80800.0,15,meets_expectations,Edinburgh
+1311,Engineering,Junior Engineer,75100.0,3,meets_expectations,Manchester
+1137,Engineering,Lead Engineer,142400.0,19,meets_expectations,Edinburgh
+1316,Engineering,Junior Engineer,56600.0,0,meets_expectations,Birmingham
+1314,Engineering,Lead Engineer,128900.0,17,exceeds_expectations,Bristol
+1713,Marketing,Marketing Coordinator,50700.0,0,exceeds_expectations,Edinburgh
+1862,Operations,Operations Analyst,67000.0,6,exceeds_expectations,Manchester
+1732,Marketing,Brand Manager,72100.0,15,exceeds_expectations,London
+1068,Engineering,Lead Engineer,114000.0,18,meets_expectations,Birmingham
+1812,Marketing,Brand Manager,90600.0,18,below_expectations,Manchester
+1745,Marketing,Marketing Specialist,51700.0,5,exceeds_expectations,London
+1399,Engineering,Engineer,99000.0,8,below_expectations,Manchester
+1078,Engineering,Junior Engineer,85500.0,3,exceeds_expectations,Bristol
+2075,Operations,Senior Operations Manager,77200.0,15,meets_expectations,Bristol
+1379,Engineering,Principal Engineer,97100.0,20,exceeds_expectations,Bristol
+1478,HR,HR Business Partner,75500.0,17,meets_expectations,Bristol
+1694,Marketing,Marketing Specialist,93200.0,8,exceeds_expectations,Manchester
+1458,HR,HR Manager,85600.0,12,exceeds_expectations,Edinburgh
+1421,HR,HR Manager,63300.0,11,meets_expectations,Edinburgh
+1479,HR,HR Advisor,69000.0,9,meets_expectations,London
+1382,Engineering,Engineer,107000.0,7,exceeds_expectations,Birmingham
+1688,Marketing,Brand Manager,86800.0,18,meets_expectations,Bristol
+2100,Operations,Operations Coordinator,75000.0,4,meets_expectations,Birmingham
+2197,Sales,Senior Account Manager,69900.0,10,meets_expectations,Edinburgh
+1659,Marketing,Marketing Specialist,61300.0,5,meets_expectations,Edinburgh
+2070,Operations,Operations Manager,93400.0,14,meets_expectations,Birmingham
+1499,HR,HR Manager,90400.0,11,exceeds_expectations,Manchester
+1509,HR,HR Advisor,44100.0,5,exceeds_expectations,London
+2201,Engineering,Principal Engineer,310000,22,exceeds_expectations,London
+1535,HR,HR Manager,85000.0,14,meets_expectations,Edinburgh
+1016,Engineering,Principal Engineer,108100.0,20,below_expectations,Manchester
+1919,Operations,Senior Operations Manager,90400.0,16,exceeds_expectations,Manchester
+1075,Engineering,Lead Engineer,105700.0,17,exceeds_expectations,Bristol
+1451,HR,HR Advisor,64800.0,9,meets_expectations,Edinburgh
+1430,HR,HR Manager,67100.0,11,meets_expectations,Bristol
+2113,Operations,Operations Analyst,70200.0,7,below_expectations,Bristol
+1189,Engineering,Senior Engineer,127800.0,14,meets_expectations,Edinburgh
+1122,Engineering,Junior Engineer,131100.0,1,meets_expectations,London
+1070,Engineering,Principal Engineer,102000.0,20,meets_expectations,Birmingham
+1326,Engineering,Lead Engineer,122500.0,16,meets_expectations,London
+1796,Marketing,Marketing Specialist,73200.0,5,meets_expectations,Edinburgh
+1149,Engineering,Lead Engineer,96400.0,15,meets_expectations,Birmingham
+1645,Marketing,Brand Manager,63000.0,17,below_expectations,Manchester
+1660,Marketing,Brand Manager,109800.0,20,meets_expectations,Edinburgh
+1317,Engineering,Senior Engineer,93600.0,10,below_expectations,Edinburgh
+1523,HR,HR Advisor,73200.0,7,meets_expectations,Edinburgh
+1208,Engineering,Senior Engineer,86600.0,13,meets_expectations,London
+1740,Marketing,Marketing Manager,61700.0,13,exceeds_expectations,Manchester
+1212,Engineering,Junior Engineer,97400.0,0,meets_expectations,Bristol
+1135,Engineering,Senior Engineer,47400.0,12,meets_expectations,Edinburgh
+1460,HR,HR Manager,67000.0,10,meets_expectations,Manchester
+1338,Engineering,Senior Engineer,112900.0,10,meets_expectations,Manchester
+1320,Engineering,Engineer,76600.0,5,meets_expectations,Birmingham
+1437,HR,HR Business Partner,116200.0,18,meets_expectations,Edinburgh
+1687,Marketing,Marketing Manager,90200.0,14,exceeds_expectations,Manchester
+1780,Marketing,Marketing Manager,76500.0,14,meets_expectations,London
+1428,HR,HR Coordinator,88300.0,4,exceeds_expectations,Edinburgh
+2013,Operations,Operations Manager,85300.0,11,exceeds_expectations,Bristol
+1534,HR,HR Business Partner,100200.0,18,meets_expectations,Bristol
+1699,Marketing,Marketing Manager,63100.0,11,meets_expectations,London
+1090,Engineering,Junior Engineer,117700.0,4,exceeds_expectations,Manchester
+2103,Operations,Senior Operations Manager,92000.0,15,exceeds_expectations,London
+1959,Operations,Operations Analyst,81900.0,8,exceeds_expectations,Manchester
+2174,Sales,Sales Manager,92500.0,18,below_expectations,Birmingham
+1156,Engineering,Senior Engineer,62900.0,11,meets_expectations,Birmingham
+1231,Engineering,Senior Engineer,78800.0,12,exceeds_expectations,Manchester
+1287,Engineering,Junior Engineer,48900.0,4,below_expectations,London
+2027,Operations,Senior Operations Manager,128100.0,19,meets_expectations,Birmingham
+1909,Operations,Operations Analyst,61600.0,6,meets_expectations,Edinburgh
+1264,Engineering,Engineer,101000.0,9,exceeds_expectations,Birmingham
+1064,Engineering,Engineer,102800.0,5,below_expectations,Bristol
+1910,Operations,Operations Manager,101200.0,11,meets_expectations,Manchester
+1663,Marketing,Marketing Specialist,66700.0,6,exceeds_expectations,Bristol
+1242,Engineering,Senior Engineer,83500.0,14,below_expectations,Birmingham
+1760,Marketing,Brand Manager,71300.0,17,meets_expectations,Birmingham
+1364,Engineering,Lead Engineer,100800.0,16,below_expectations,Edinburgh
+1792,Marketing,Marketing Coordinator,63400.0,2,exceeds_expectations,Birmingham
+1979,Operations,Senior Operations Manager,69300.0,18,meets_expectations,London
+2017,Operations,Operations Manager,123200.0,13,meets_expectations,Bristol
+1161,Engineering,Lead Engineer,130300.0,19,meets_expectations,Edinburgh
+1685,Marketing,Marketing Coordinator,63500.0,3,meets_expectations,London
+1874,Operations,Senior Operations Manager,107500.0,15,exceeds_expectations,Birmingham
+2199,Sales,Sales Manager,70900.0,18,below_expectations,London
+1764,Marketing,Marketing Coordinator,41200.0,0,exceeds_expectations,London
+1543,HR,HR Manager,98000.0,14,meets_expectations,Bristol
+1254,Engineering,Junior Engineer,117500.0,0,exceeds_expectations,Edinburgh
+1965,Operations,Senior Operations Manager,96800.0,15,meets_expectations,Edinburgh
+1754,Marketing,Brand Manager,86100.0,17,exceeds_expectations,Edinburgh
+1469,HR,HR Advisor,83900.0,9,exceeds_expectations,Birmingham
+2058,Operations,Operations Coordinator,82100.0,0,meets_expectations,Bristol
+1204,Engineering,Lead Engineer,113900.0,18,exceeds_expectations,Birmingham
+1191,Engineering,Lead Engineer,130300.0,19,exceeds_expectations,Manchester
+1091,Engineering,Engineer,139100.0,5,exceeds_expectations,London
+1829,Operations,Operations Analyst,48400.0,5,exceeds_expectations,Birmingham
+1964,Operations,Operations Coordinator,85100.0,3,meets_expectations,Bristol
+1324,Engineering,Engineer,71300.0,6,exceeds_expectations,London
+1881,Operations,Operations Coordinator,56600.0,1,meets_expectations,Bristol
+1521,HR,HR Advisor,58700.0,7,meets_expectations,Bristol
+1390,Engineering,Engineer,85000.0,7,meets_expectations,London
+1830,Operations,Operations Manager,61000.0,14,below_expectations,Manchester
+1396,Engineering,Junior Engineer,107100.0,2,exceeds_expectations,Bristol
+2066,Operations,Senior Operations Manager,72900.0,20,meets_expectations,Birmingham
+1922,Operations,Senior Operations Manager,111800.0,15,meets_expectations,Manchester
+2192,Sales,Sales Manager,83100.0,15,exceeds_expectations,Edinburgh
+1772,Marketing,Brand Manager,95000.0,20,exceeds_expectations,London
+1587,HR,HR Coordinator,58200.0,2,meets_expectations,Birmingham
+1876,Operations,Operations Coordinator,89600.0,3,exceeds_expectations,Manchester
+2158,Sales,Account Manager,75100.0,7,exceeds_expectations,Edinburgh
+1009,Engineering,Senior Engineer,124400.0,11,exceeds_expectations,Edinburgh
+2081,Operations,Operations Analyst,88500.0,6,meets_expectations,Bristol
+1055,Engineering,Junior Engineer,42000.0,2,meets_expectations,London
+1278,Engineering,Junior Engineer,47600.0,1,meets_expectations,Manchester
+1206,Engineering,Engineer,109900.0,8,meets_expectations,Bristol
+1291,Engineering,Lead Engineer,89500.0,15,meets_expectations,Edinburgh
+1995,Operations,Operations Coordinator,71500.0,4,exceeds_expectations,Bristol
+1175,Engineering,Junior Engineer,87700.0,3,meets_expectations,Manchester
+1262,Engineering,Junior Engineer,80200.0,4,exceeds_expectations,Birmingham
+2029,Operations,Operations Manager,102500.0,11,meets_expectations,Manchester
+1540,HR,HR Business Partner,67700.0,15,below_expectations,Edinburgh
+2104,Operations,Operations Analyst,83700.0,7,below_expectations,Bristol
+2130,Sales,Sales Manager,104900.0,17,meets_expectations,Birmingham
+1145,Engineering,Engineer,113700.0,8,exceeds_expectations,London
+1725,Marketing,Marketing Coordinator,72700.0,0,meets_expectations,Bristol
+1668,Marketing,Marketing Manager,94800.0,14,meets_expectations,Birmingham
+1265,Engineering,Junior Engineer,80700.0,3,exceeds_expectations,Manchester
+1893,Operations,Operations Analyst,67700.0,8,exceeds_expectations,London
+1560,HR,HR Business Partner,84700.0,16,meets_expectations,Edinburgh
+1209,Engineering,Engineer,75500.0,5,meets_expectations,Edinburgh
+1217,Engineering,Engineer,92200.0,7,below_expectations,Edinburgh
+2152,Sales,Sales Manager,105200.0,16,meets_expectations,London
+1215,Engineering,Engineer,94400.0,6,meets_expectations,Edinburgh
+1340,Engineering,Senior Engineer,104000.0,11,exceeds_expectations,Manchester
+1024,Engineering,Senior Engineer,96600.0,12,meets_expectations,Manchester
+1483,HR,HR Business Partner,72900.0,18,exceeds_expectations,Edinburgh
+2048,Operations,Senior Operations Manager,99300.0,18,exceeds_expectations,Birmingham
+1651,Marketing,Marketing Manager,88000.0,14,meets_expectations,Birmingham
+1895,Operations,Senior Operations Manager,100300.0,19,meets_expectations,Birmingham
+1352,Engineering,Lead Engineer,102600.0,18,meets_expectations,Birmingham
+2126,Sales,Senior Account Manager,86400.0,11,below_expectations,Edinburgh
+1295,Engineering,Junior Engineer,135300.0,1,meets_expectations,London
+1892,Operations,Senior Operations Manager,79600.0,20,meets_expectations,Manchester
+1906,Operations,Operations Coordinator,46500.0,4,exceeds_expectations,Edinburgh
+1698,Marketing,Marketing Manager,90000.0,12,meets_expectations,Birmingham
+1855,Operations,Operations Analyst,50300.0,7,exceeds_expectations,Edinburgh
+2028,Operations,Senior Operations Manager,100200.0,15,exceeds_expectations,Bristol
+1741,Marketing,Marketing Coordinator,63000.0,1,below_expectations,Bristol
+1383,Engineering,Junior Engineer,63400.0,0,meets_expectations,Edinburgh
+1205,Engineering,Lead Engineer,158100.0,18,meets_expectations,Edinburgh
+1240,Engineering,Lead Engineer,77800.0,19,below_expectations,Birmingham
+2089,Operations,Operations Analyst,76300.0,7,meets_expectations,Manchester
+2115,Operations,Senior Operations Manager,110300.0,19,meets_expectations,London
+1150,Engineering,Senior Engineer,76600.0,11,below_expectations,Bristol
+1453,HR,HR Advisor,51200.0,5,meets_expectations,Bristol
+1359,Engineering,Junior Engineer,73300.0,2,meets_expectations,Birmingham
+1174,Engineering,Junior Engineer,112500.0,3,exceeds_expectations,Birmingham
+1697,Marketing,Brand Manager,81900.0,20,meets_expectations,London
+1025,Engineering,Lead Engineer,71900.0,16,exceeds_expectations,Manchester
+1609,Marketing,Marketing Coordinator,28000,2,below_expectations,Edinburgh
+1353,Engineering,Lead Engineer,105100.0,19,below_expectations,London
+1915,Operations,Operations Manager,82000.0,11,exceeds_expectations,Edinburgh
+2196,Sales,Sales Representative,44400.0,2,below_expectations,Manchester
+1709,Marketing,Marketing Manager,68700.0,11,below_expectations,Birmingham
+1375,Engineering,Engineer,54900.0,6,exceeds_expectations,Edinburgh
+1434,HR,HR Business Partner,77100.0,17,meets_expectations,Edinburgh
+1424,HR,HR Advisor,76300.0,7,exceeds_expectations,London
+1116,Engineering,Engineer,133700.0,7,meets_expectations,Manchester
+2095,Operations,Operations Manager,57300.0,11,below_expectations,Birmingham
+1806,Marketing,Brand Manager,72900.0,16,meets_expectations,Bristol
+2057,Operations,Senior Operations Manager,88100.0,17,meets_expectations,Birmingham
+1784,Marketing,Marketing Coordinator,67900.0,1,meets_expectations,Birmingham
+1848,Operations,Operations Analyst,89400.0,9,exceeds_expectations,Edinburgh
+1074,Engineering,Senior Engineer,121900.0,11,meets_expectations,Edinburgh
+2140,Sales,Account Manager,54700.0,5,meets_expectations,Edinburgh
+1253,Engineering,Junior Engineer,93000.0,3,meets_expectations,Birmingham
+1696,Marketing,Brand Manager,110600.0,15,below_expectations,Birmingham
+2148,Sales,Sales Manager,81800.0,17,exceeds_expectations,Birmingham
+1575,HR,HR Business Partner,60900.0,15,exceeds_expectations,Birmingham
+1201,Engineering,Senior Engineer,134200.0,12,meets_expectations,London
+1670,Marketing,Marketing Specialist,64200.0,9,below_expectations,Birmingham
+1405,Engineering,Engineer,112200.0,6,meets_expectations,Edinburgh
+1723,Marketing,Marketing Coordinator,67500.0,4,meets_expectations,Bristol
+1203,Engineering,Senior Engineer,98400.0,10,meets_expectations,Bristol
+2136,Sales,Sales Manager,101400.0,15,exceeds_expectations,Edinburgh
+1493,HR,HR Advisor,61400.0,8,exceeds_expectations,Birmingham
+2071,Operations,Senior Operations Manager,105800.0,18,exceeds_expectations,Edinburgh
+1134,Engineering,Junior Engineer,103000.0,0,exceeds_expectations,Bristol
+2015,Operations,Operations Manager,86500.0,12,exceeds_expectations,Birmingham
+1514,HR,HR Advisor,70500.0,8,meets_expectations,London
+2170,Sales,Senior Account Manager,99300.0,13,meets_expectations,Bristol
+1088,Engineering,Senior Engineer,120200.0,11,meets_expectations,Manchester
+2176,Sales,Sales Manager,76200.0,15,exceeds_expectations,Birmingham
+1409,Engineering,Senior Engineer,140100.0,13,exceeds_expectations,Edinburgh
+1562,HR,HR Advisor,77000.0,7,exceeds_expectations,Birmingham
+1868,Operations,Operations Coordinator,72500.0,3,meets_expectations,London
+1747,Marketing,Marketing Specialist,62800.0,8,exceeds_expectations,London
+1488,HR,HR Coordinator,73300.0,4,meets_expectations,Bristol
+1085,Engineering,Junior Engineer,124700.0,2,below_expectations,London
+1345,Engineering,Senior Engineer,126100.0,10,below_expectations,London
+1136,Engineering,Senior Engineer,117000.0,13,meets_expectations,Bristol
+1152,Engineering,Junior Engineer,70300.0,0,exceeds_expectations,Bristol
+1404,Engineering,Junior Engineer,99100.0,1,meets_expectations,London
+1297,Engineering,Junior Engineer,106400.0,2,below_expectations,Manchester
+1443,HR,HR Advisor,76400.0,9,meets_expectations,Bristol
+1757,Marketing,Brand Manager,86500.0,16,meets_expectations,Bristol
+1093,Engineering,Senior Engineer,124500.0,13,exceeds_expectations,Birmingham
+2117,Operations,Operations Coordinator,59200.0,2,meets_expectations,London
+1590,HR,HR Coordinator,53200.0,0,below_expectations,Birmingham
+1718,Marketing,Brand Manager,93800.0,19,meets_expectations,Edinburgh
+1457,HR,HR Coordinator,59400.0,3,below_expectations,Birmingham
+1403,Engineering,Principal Engineer,126600.0,20,exceeds_expectations,Edinburgh
+1052,Engineering,Junior Engineer,99800.0,1,meets_expectations,Birmingham
+1157,Engineering,Junior Engineer,65800.0,2,exceeds_expectations,Edinburgh
+1866,Operations,Senior Operations Manager,107200.0,19,meets_expectations,Edinburgh
+1515,HR,HR Manager,79900.0,10,meets_expectations,Manchester
+2118,Operations,Senior Operations Manager,99800.0,20,meets_expectations,Edinburgh
+1154,Engineering,Junior Engineer,114400.0,3,meets_expectations,Birmingham
+1579,HR,HR Manager,76200.0,13,meets_expectations,Bristol
+1553,HR,HR Manager,62700.0,12,exceeds_expectations,London
+1327,Engineering,Engineer,70800.0,7,below_expectations,Birmingham
+1043,Engineering,Senior Engineer,132300.0,14,meets_expectations,London
+1907,Operations,Operations Analyst,78300.0,9,meets_expectations,London
+1313,Engineering,Senior Engineer,120000.0,11,meets_expectations,Edinburgh
+1056,Engineering,Principal Engineer,138400.0,20,exceeds_expectations,London
+1392,Engineering,Lead Engineer,133400.0,15,meets_expectations,London
+1648,Marketing,Marketing Manager,75000.0,13,below_expectations,London
+1650,Marketing,Marketing Specialist,97100.0,7,meets_expectations,Edinburgh
+1012,Engineering,Lead Engineer,102300.0,18,meets_expectations,London
+1617,Marketing,Marketing Manager,78700.0,12,below_expectations,Birmingham
+1669,Marketing,Brand Manager,75300.0,19,meets_expectations,Manchester
+1233,Engineering,Lead Engineer,135700.0,16,below_expectations,Edinburgh
+1124,Engineering,Lead Engineer,140000.0,19,meets_expectations,Edinburgh
+2046,Operations,Operations Manager,83300.0,14,exceeds_expectations,London
+2076,Operations,Operations Coordinator,71500.0,3,meets_expectations,Bristol
+1952,Operations,Operations Coordinator,51900.0,2,exceeds_expectations,London
+2026,Operations,Operations Coordinator,93100.0,4,below_expectations,Birmingham
+1058,Engineering,Lead Engineer,90300.0,15,meets_expectations,Edinburgh
+1081,Engineering,Lead Engineer,111600.0,15,below_expectations,Edinburgh
+1391,Engineering,Engineer,58700.0,7,meets_expectations,London
+1721,Marketing,Marketing Coordinator,70200.0,2,below_expectations,Edinburgh
+1767,Marketing,Marketing Specialist,90800.0,9,meets_expectations,Edinburgh
+1733,Marketing,Marketing Coordinator,57900.0,0,meets_expectations,London
+1920,Operations,Operations Analyst,78300.0,6,meets_expectations,Bristol
+1610,Marketing,Marketing Specialist,72400.0,7,exceeds_expectations,Birmingham
+1098,Engineering,Engineer,101800.0,8,meets_expectations,Bristol
+1989,Operations,Operations Coordinator,77800.0,1,exceeds_expectations,Edinburgh
+1807,Marketing,Marketing Specialist,79400.0,7,meets_expectations,Birmingham
+1753,Marketing,Marketing Manager,89900.0,12,exceeds_expectations,London
+2037,Operations,Operations Manager,62700.0,10,below_expectations,Birmingham
+1178,Engineering,Engineer,91300.0,6,meets_expectations,Birmingham
+1495,HR,HR Manager,57700.0,10,exceeds_expectations,Birmingham
+2053,Operations,Operations Manager,88800.0,11,exceeds_expectations,Birmingham
+1836,Operations,Operations Coordinator,47500.0,1,meets_expectations,Birmingham
+1223,Engineering,Junior Engineer,105400.0,4,exceeds_expectations,Edinburgh
+1583,HR,HR Advisor,73600.0,5,meets_expectations,Bristol
+1410,Engineering,Senior Engineer,76600.0,10,exceeds_expectations,Edinburgh
+1748,Marketing,Brand Manager,85300.0,15,meets_expectations,Birmingham
+1095,Engineering,Senior Engineer,140900.0,12,meets_expectations,Edinburgh
+1758,Marketing,Marketing Coordinator,57400.0,1,exceeds_expectations,London
+1869,Operations,Operations Analyst,98600.0,9,exceeds_expectations,Birmingham
+1985,Operations,Operations Manager,76400.0,14,meets_expectations,Birmingham
+1256,Engineering,Lead Engineer,121700.0,19,exceeds_expectations,Birmingham
+1597,HR,HR Business Partner,108400.0,20,below_expectations,Edinburgh
+1867,Operations,Operations Coordinator,61600.0,3,meets_expectations,London
+1272,Engineering,Engineer,92200.0,9,meets_expectations,London
+1142,Engineering,Engineer,85100.0,5,below_expectations,Edinburgh
+1160,Engineering,Lead Engineer,96300.0,16,exceeds_expectations,Birmingham
+1994,Operations,Operations Manager,76300.0,14,meets_expectations,Bristol
+1472,HR,HR Business Partner,83700.0,17,exceeds_expectations,Manchester
+1039,Engineering,Junior Engineer,111800.0,4,meets_expectations,Birmingham
+1097,Engineering,Engineer,113800.0,7,meets_expectations,London
+1938,Operations,Senior Operations Manager,80400.0,20,exceeds_expectations,Edinburgh
+1586,HR,HR Coordinator,51000.0,0,meets_expectations,Manchester
+1879,Operations,Senior Operations Manager,111800.0,20,exceeds_expectations,Edinburgh
+1570,HR,HR Coordinator,63000.0,0,meets_expectations,Manchester
+1524,HR,HR Business Partner,86100.0,16,exceeds_expectations,Birmingham
+1567,HR,HR Coordinator,54700.0,1,meets_expectations,London
+1283,Engineering,Junior Engineer,106400.0,0,exceeds_expectations,Bristol
+1707,Marketing,Brand Manager,86200.0,20,exceeds_expectations,London
+1023,Engineering,Lead Engineer,75400.0,17,meets_expectations,Bristol
+1791,Marketing,Marketing Coordinator,70000.0,0,meets_expectations,Manchester
+1777,Marketing,Marketing Coordinator,70900.0,4,below_expectations,Manchester
+1228,Engineering,Senior Engineer,116100.0,12,meets_expectations,Birmingham
+1308,Engineering,Lead Engineer,86100.0,17,meets_expectations,London
+1007,Engineering,Engineer,86700.0,5,below_expectations,Birmingham
+1310,Engineering,Engineer,130600.0,9,meets_expectations,Birmingham
+1139,Engineering,Engineer,124200.0,5,exceeds_expectations,Bristol
+1531,HR,HR Coordinator,63700.0,2,exceeds_expectations,Bristol
+2082,Operations,Senior Operations Manager,80200.0,15,meets_expectations,Manchester
+2012,Operations,Operations Analyst,66600.0,6,exceeds_expectations,London
+1292,Engineering,Lead Engineer,121400.0,16,meets_expectations,Bristol
+1036,Engineering,Senior Engineer,88200.0,11,exceeds_expectations,Birmingham
+1786,Marketing,Marketing Specialist,75600.0,7,below_expectations,London
+1930,Operations,Operations Coordinator,60200.0,4,below_expectations,Bristol
+2035,Operations,Operations Coordinator,61000.0,3,exceeds_expectations,Bristol
+1459,HR,HR Advisor,92800.0,7,exceeds_expectations,Bristol
+1464,HR,HR Coordinator,59200.0,1,meets_expectations,Bristol
+1369,Engineering,Junior Engineer,59900.0,1,meets_expectations,Bristol
+1261,Engineering,Junior Engineer,107300.0,2,meets_expectations,Manchester
+1763,Marketing,Marketing Specialist,68700.0,6,exceeds_expectations,Manchester
+2009,Operations,Operations Coordinator,59900.0,0,below_expectations,London
+2159,Sales,Senior Account Manager,75300.0,11,exceeds_expectations,Manchester
+1220,Engineering,Lead Engineer,102000.0,16,meets_expectations,Edinburgh
+1559,HR,HR Business Partner,53500.0,17,exceeds_expectations,Edinburgh
+1577,HR,HR Coordinator,49000.0,1,below_expectations,Birmingham
+1247,Engineering,Engineer,64500.0,7,meets_expectations,Birmingham
+1624,Marketing,Brand Manager,68700.0,18,meets_expectations,Edinburgh
+1951,Operations,Operations Coordinator,88800.0,2,meets_expectations,Manchester
+1744,Marketing,Marketing Manager,80400.0,11,meets_expectations,Birmingham
+1441,HR,HR Coordinator,50200.0,3,below_expectations,Manchester
+1649,Marketing,Marketing Specialist,78800.0,8,meets_expectations,Bristol
+1783,Marketing,Marketing Coordinator,76700.0,4,meets_expectations,Bristol
+1423,HR,HR Business Partner,94800.0,18,meets_expectations,Birmingham
+2010,Operations,Operations Analyst,73300.0,6,meets_expectations,Manchester
+1333,Engineering,Junior Engineer,109800.0,2,meets_expectations,Edinburgh
+1801,Marketing,Marketing Specialist,54200.0,7,exceeds_expectations,Edinburgh
+1323,Engineering,Senior Engineer,95100.0,14,meets_expectations,Birmingham
+1361,Engineering,Junior Engineer,76600.0,2,meets_expectations,Edinburgh
+1454,HR,HR Coordinator,67300.0,4,meets_expectations,Birmingham
+1615,Marketing,Brand Manager,91000.0,19,below_expectations,Birmingham
+1547,HR,HR Manager,73200.0,14,meets_expectations,Manchester
+2006,Operations,Senior Operations Manager,88300.0,16,meets_expectations,Birmingham
+1875,Operations,Operations Coordinator,50000.0,0,meets_expectations,Edinburgh
+1346,Engineering,Lead Engineer,85500.0,15,meets_expectations,Birmingham
+1517,HR,HR Business Partner,83800.0,18,meets_expectations,Edinburgh
+1412,Engineering,Senior Engineer,141500.0,13,below_expectations,Bristol
+1564,HR,HR Business Partner,60600.0,17,meets_expectations,Edinburgh
+2080,Operations,Senior Operations Manager,78300.0,18,meets_expectations,Bristol
+2188,Sales,Senior Account Manager,70900.0,11,meets_expectations,Bristol
+2033,Operations,Operations Manager,73500.0,11,meets_expectations,Edinburgh
+1438,HR,HR Manager,94600.0,14,meets_expectations,Birmingham
+1682,Marketing,Brand Manager,66900.0,18,below_expectations,Bristol
+1720,Marketing,Brand Manager,73400.0,19,meets_expectations,Manchester
+2181,Sales,Sales Manager,72500.0,17,below_expectations,Manchester
+1691,Marketing,Marketing Specialist,66900.0,8,exceeds_expectations,Birmingham
+2194,Sales,Account Manager,77100.0,5,meets_expectations,Birmingham
+1591,HR,HR Business Partner,87800.0,17,exceeds_expectations,Edinburgh
+2097,Operations,Senior Operations Manager,70400.0,16,meets_expectations,Edinburgh
+1904,Operations,Operations Coordinator,41500.0,4,meets_expectations,Manchester
+1109,Engineering,Senior Engineer,85900.0,10,below_expectations,Edinburgh
+1765,Marketing,Marketing Specialist,52000.0,7,meets_expectations,London
+1849,Operations,Senior Operations Manager,98700.0,15,meets_expectations,Edinburgh
+1819,Operations,Operations Manager,77000.0,11,meets_expectations,Birmingham
+1768,Marketing,Marketing Coordinator,73000.0,1,exceeds_expectations,Manchester
+1851,Operations,Operations Manager,84400.0,11,meets_expectations,Birmingham
+2150,Sales,Senior Account Manager,79900.0,14,exceeds_expectations,Bristol
+1997,Operations,Senior Operations Manager,97800.0,16,meets_expectations,Manchester
+2167,Sales,Sales Representative,69800.0,1,meets_expectations,Bristol
+2007,Operations,Operations Coordinator,69600.0,3,meets_expectations,Edinburgh
+1673,Marketing,Brand Manager,104400.0,20,below_expectations,Birmingham
+1873,Operations,Operations Coordinator,42000.0,1,meets_expectations,London
+1974,Operations,Operations Coordinator,47800.0,0,meets_expectations,Manchester
+2052,Operations,Operations Coordinator,49700.0,1,meets_expectations,London
+1395,Engineering,Lead Engineer,85400.0,18,below_expectations,Birmingham
+1545,HR,HR Coordinator,66900.0,3,meets_expectations,Manchester
+1237,Engineering,Senior Engineer,85000.0,10,below_expectations,Birmingham
+1743,Marketing,Marketing Coordinator,73500.0,3,below_expectations,Edinburgh
+1104,Engineering,Engineer,77300.0,6,meets_expectations,Edinburgh
+1100,Engineering,Junior Engineer,46900.0,3,exceeds_expectations,Birmingham
+1532,HR,HR Advisor,62900.0,6,meets_expectations,Manchester
+1222,Engineering,Engineer,93500.0,6,exceeds_expectations,Bristol
+1080,Engineering,Principal Engineer,154700.0,20,exceeds_expectations,Bristol
+2091,Operations,Operations Manager,58900.0,11,exceeds_expectations,London
+1863,Operations,Senior Operations Manager,95700.0,19,exceeds_expectations,London
+1925,Operations,Operations Coordinator,76900.0,2,meets_expectations,Edinburgh
+1042,Engineering,Senior Engineer,88500.0,12,exceeds_expectations,Birmingham
+1542,HR,HR Manager,54500.0,11,exceeds_expectations,Edinburgh
+1273,Engineering,Junior Engineer,98800.0,4,exceeds_expectations,London
+1632,Marketing,Marketing Coordinator,73000.0,4,meets_expectations,Bristol
+1060,Engineering,Engineer,102600.0,9,meets_expectations,Bristol
+1726,Marketing,Brand Manager,76200.0,19,meets_expectations,Edinburgh
+2190,Sales,Account Manager,84200.0,6,meets_expectations,Bristol
+1378,Engineering,Junior Engineer,99500.0,4,exceeds_expectations,London
+1842,Operations,Operations Analyst,68600.0,6,meets_expectations,Bristol
+1426,HR,HR Advisor,69500.0,8,meets_expectations,Manchester
+1762,Marketing,Marketing Manager,110600.0,14,meets_expectations,Edinburgh
+1983,Operations,Senior Operations Manager,72900.0,16,meets_expectations,Birmingham
+1370,Engineering,Senior Engineer,63100.0,12,below_expectations,Manchester
+1063,Engineering,Junior Engineer,113900.0,1,exceeds_expectations,Bristol
+1655,Marketing,Marketing Specialist,57000.0,6,below_expectations,Edinburgh
+1821,Operations,Operations Manager,95700.0,13,meets_expectations,Manchester
+1949,Operations,Operations Analyst,88600.0,9,exceeds_expectations,Edinburgh
+1082,Engineering,Engineer,154000.0,8,below_expectations,Birmingham
+1853,Operations,Operations Coordinator,77400.0,1,below_expectations,Birmingham
+1504,HR,HR Coordinator,57400.0,3,meets_expectations,Manchester
+1672,Marketing,Marketing Manager,82300.0,13,meets_expectations,Bristol
+1214,Engineering,Principal Engineer,129400.0,20,meets_expectations,London
+1014,Engineering,Junior Engineer,53900.0,3,meets_expectations,Edinburgh
+1073,Engineering,Engineer,115000.0,8,below_expectations,Manchester
+1736,Marketing,Brand Manager,101200.0,19,below_expectations,London
+1621,Marketing,Marketing Coordinator,59600.0,2,meets_expectations,Birmingham
+2099,Operations,Operations Manager,91000.0,14,meets_expectations,Manchester
+1932,Operations,Operations Manager,93000.0,14,exceeds_expectations,Bristol
+1051,Engineering,Senior Engineer,79900.0,11,exceeds_expectations,London
+1263,Engineering,Lead Engineer,93900.0,16,below_expectations,Edinburgh
+1605,Marketing,Marketing Coordinator,67500.0,4,meets_expectations,London
+1991,Operations,Operations Analyst,93700.0,6,meets_expectations,Manchester
+2157,Sales,Sales Manager,90000.0,15,meets_expectations,Manchester
+2114,Operations,Senior Operations Manager,97000.0,16,meets_expectations,Manchester
+2168,Sales,Account Manager,58200.0,8,meets_expectations,Bristol
+1674,Marketing,Marketing Coordinator,63300.0,4,meets_expectations,Edinburgh
+1398,Engineering,Junior Engineer,57800.0,1,meets_expectations,Birmingham
+1857,Operations,Senior Operations Manager,107100.0,18,below_expectations,London
+1658,Marketing,Marketing Specialist,74500.0,7,meets_expectations,Bristol
+1585,HR,HR Coordinator,59300.0,1,exceeds_expectations,London
+1886,Operations,Operations Manager,73800.0,12,meets_expectations,London
+2107,Operations,Operations Analyst,57800.0,5,exceeds_expectations,London
+1197,Engineering,Engineer,67900.0,6,meets_expectations,Birmingham
+1498,HR,HR Advisor,63900.0,9,below_expectations,London
+1988,Operations,Senior Operations Manager,115700.0,17,meets_expectations,London
+1207,Engineering,Senior Engineer,89100.0,13,below_expectations,Birmingham
+1033,Engineering,Principal Engineer,110300.0,20,meets_expectations,Manchester
+1183,Engineering,Senior Engineer,106300.0,10,exceeds_expectations,Edinburgh
+1133,Engineering,Senior Engineer,152100.0,13,meets_expectations,Bristol
+1856,Operations,Senior Operations Manager,84700.0,17,meets_expectations,Edinburgh
+1045,Engineering,Engineer,95000.0,7,meets_expectations,London
+2050,Operations,Operations Manager,97400.0,12,meets_expectations,Bristol
+2164,Sales,Account Manager,55700.0,6,meets_expectations,Manchester
+1536,HR,HR Business Partner,75100.0,18,below_expectations,Edinburgh
+1099,Engineering,Senior Engineer,86000.0,12,meets_expectations,London
+1114,Engineering,Lead Engineer,90700.0,16,meets_expectations,Manchester
+1330,Engineering,Junior Engineer,94900.0,4,meets_expectations,Manchester
+2093,Operations,Senior Operations Manager,111700.0,20,meets_expectations,Bristol
+1420,Engineering,Junior Engineer,118900.0,4,below_expectations,Birmingham
+1331,Engineering,Lead Engineer,79200.0,16,meets_expectations,Edinburgh
+1290,Engineering,Lead Engineer,127600.0,16,below_expectations,London
+1628,Marketing,Brand Manager,96600.0,20,meets_expectations,Bristol
+1992,Operations,Operations Manager,99800.0,10,below_expectations,Edinburgh
+1565,HR,HR Advisor,67300.0,7,below_expectations,Edinburgh
+1785,Marketing,Marketing Specialist,84000.0,5,meets_expectations,Bristol
+2054,Operations,Senior Operations Manager,94300.0,19,below_expectations,Edinburgh
+1700,Marketing,Marketing Manager,90100.0,14,meets_expectations,Birmingham
+1537,HR,HR Advisor,69200.0,9,exceeds_expectations,Manchester
+1956,Operations,Operations Manager,66900.0,13,exceeds_expectations,London
+1397,Engineering,Lead Engineer,120500.0,16,below_expectations,Edinburgh
+1839,Operations,Operations Coordinator,45300.0,2,exceeds_expectations,London
+2085,Operations,Operations Coordinator,53400.0,2,meets_expectations,Bristol
+1675,Marketing,Brand Manager,107600.0,19,below_expectations,Manchester
+2069,Operations,Operations Coordinator,67200.0,3,meets_expectations,Edinburgh
+2034,Operations,Senior Operations Manager,126600.0,17,exceeds_expectations,London
+1329,Engineering,Engineer,99700.0,9,exceeds_expectations,Manchester
+1245,Engineering,Senior Engineer,67800.0,13,below_expectations,London
+1636,Marketing,Marketing Manager,66700.0,11,below_expectations,Bristol
+1929,Operations,Senior Operations Manager,98000.0,20,exceeds_expectations,Birmingham
+1373,Engineering,Senior Engineer,78100.0,14,exceeds_expectations,Manchester
+1878,Operations,Operations Analyst,99300.0,8,exceeds_expectations,Bristol
+2155,Sales,Sales Manager,77000.0,18,meets_expectations,Edinburgh
+1020,Engineering,Engineer,55100.0,6,exceeds_expectations,Bristol
+2149,Sales,Senior Account Manager,91900.0,11,meets_expectations,Manchester
+1190,Engineering,Engineer,89800.0,9,meets_expectations,London
+1752,Marketing,Marketing Specialist,71500.0,7,below_expectations,Birmingham
+1389,Engineering,Lead Engineer,147500.0,17,meets_expectations,Birmingham
+2038,Operations,Senior Operations Manager,110500.0,17,exceeds_expectations,London
+1654,Marketing,Marketing Manager,76800.0,11,meets_expectations,Edinburgh
+1795,Marketing,Brand Manager,109400.0,15,meets_expectations,Manchester
+2141,Sales,Sales Representative,65900.0,0,exceeds_expectations,Birmingham
+1465,HR,HR Business Partner,86400.0,20,below_expectations,London
+1376,Engineering,Engineer,145900.0,9,exceeds_expectations,Bristol
+1555,HR,HR Advisor,75400.0,7,meets_expectations,Bristol
+1270,Engineering,Lead Engineer,136200.0,15,below_expectations,Bristol
+1840,Operations,Operations Manager,121000.0,13,exceeds_expectations,Manchester
+1303,Engineering,Senior Engineer,93800.0,13,meets_expectations,London
+1461,HR,HR Business Partner,95500.0,15,exceeds_expectations,Edinburgh
+2077,Operations,Operations Coordinator,81700.0,2,below_expectations,Bristol
+1544,HR,HR Coordinator,43100.0,4,meets_expectations,Birmingham
+1071,Engineering,Junior Engineer,123400.0,2,meets_expectations,London
+2067,Operations,Operations Coordinator,66600.0,2,meets_expectations,Birmingham
+1568,HR,HR Advisor,83600.0,6,exceeds_expectations,Bristol
+2129,Sales,Account Manager,41900.0,6,meets_expectations,Birmingham
+1937,Operations,Operations Analyst,71900.0,6,below_expectations,Birmingham
+2131,Sales,Account Manager,46800.0,9,meets_expectations,Manchester
+1852,Operations,Operations Analyst,79500.0,7,exceeds_expectations,Bristol
+1889,Operations,Operations Analyst,77700.0,5,exceeds_expectations,London
+1282,Engineering,Junior Engineer,98300.0,2,meets_expectations,Bristol
+1480,HR,HR Manager,78700.0,13,meets_expectations,London
+2147,Sales,Sales Representative,57400.0,0,below_expectations,Birmingham
+1332,Engineering,Junior Engineer,73400.0,1,meets_expectations,Edinburgh
+1357,Engineering,Senior Engineer,90600.0,11,meets_expectations,Birmingham
+2109,Operations,Operations Manager,75800.0,14,meets_expectations,Manchester
+1192,Engineering,Engineer,96600.0,8,meets_expectations,Manchester
+1581,HR,HR Advisor,70600.0,8,exceeds_expectations,Edinburgh
+1195,Engineering,Engineer,92800.0,7,exceeds_expectations,London
+1502,HR,HR Advisor,61400.0,7,meets_expectations,Bristol
+1714,Marketing,Marketing Coordinator,41200.0,4,meets_expectations,Manchester
+1556,HR,HR Manager,55200.0,10,meets_expectations,Manchester
+1302,Engineering,Engineer,83900.0,6,meets_expectations,Manchester
+1573,HR,HR Business Partner,81300.0,17,meets_expectations,Birmingham
+1449,HR,HR Advisor,57500.0,8,meets_expectations,London
+1724,Marketing,Brand Manager,115800.0,19,exceeds_expectations,Birmingham
+1497,HR,HR Manager,86100.0,12,meets_expectations,Manchester
+1041,Engineering,Engineer,133600.0,6,meets_expectations,Birmingham
+1921,Operations,Operations Manager,105500.0,14,meets_expectations,London
+2084,Operations,Operations Coordinator,88600.0,4,meets_expectations,Bristol
+1138,Engineering,Junior Engineer,67700.0,0,meets_expectations,Edinburgh
+1742,Marketing,Brand Manager,128300.0,19,below_expectations,Manchester
+1367,Engineering,Engineer,97800.0,6,below_expectations,London
+2125,Operations,Operations Coordinator,56300.0,0,exceeds_expectations,Edinburgh
+1706,Marketing,Marketing Manager,104200.0,13,meets_expectations,Manchester
+2142,Sales,Account Manager,93900.0,6,below_expectations,Bristol
+1198,Engineering,Junior Engineer,106400.0,4,below_expectations,Manchester
+1751,Marketing,Marketing Specialist,72500.0,7,exceeds_expectations,London
+1450,HR,HR Business Partner,65300.0,15,exceeds_expectations,Bristol
+1914,Operations,Operations Manager,78200.0,13,exceeds_expectations,Birmingham
+1825,Operations,Senior Operations Manager,60400.0,18,exceeds_expectations,London
+1356,Engineering,Lead Engineer,108200.0,16,meets_expectations,Manchester
+2116,Operations,Senior Operations Manager,102700.0,17,meets_expectations,London
+1999,Operations,Senior Operations Manager,109500.0,19,meets_expectations,Bristol
+1808,Marketing,Brand Manager,89500.0,17,exceeds_expectations,London
+1572,HR,HR Advisor,45700.0,6,meets_expectations,Manchester
+2041,Operations,Operations Manager,47100.0,10,below_expectations,Bristol
+1239,Engineering,Principal Engineer,112800.0,20,exceeds_expectations,London
+1500,HR,HR Advisor,57700.0,6,exceeds_expectations,Birmingham
+1129,Engineering,Senior Engineer,128300.0,14,meets_expectations,Birmingham
+1110,Engineering,Senior Engineer,118600.0,12,meets_expectations,Manchester
+1811,Marketing,Marketing Manager,82900.0,11,meets_expectations,Bristol
+1550,HR,HR Manager,101100.0,13,meets_expectations,London
+1719,Marketing,Marketing Manager,76200.0,11,below_expectations,Edinburgh
+1158,Engineering,Junior Engineer,89500.0,3,meets_expectations,Birmingham
+1661,Marketing,Marketing Manager,102000.0,12,meets_expectations,Bristol
+1365,Engineering,Lead Engineer,98500.0,16,meets_expectations,Manchester
+1996,Operations,Operations Manager,86100.0,13,exceeds_expectations,Edinburgh
+1062,Engineering,Lead Engineer,132900.0,17,below_expectations,Birmingham
+1641,Marketing,Marketing Specialist,72500.0,7,meets_expectations,Edinburgh
+1778,Marketing,Marketing Manager,65700.0,14,meets_expectations,Edinburgh
+2019,Operations,Operations Analyst,56100.0,6,exceeds_expectations,Manchester
+1954,Operations,Operations Analyst,66100.0,8,meets_expectations,London
+1347,Engineering,Engineer,79900.0,8,below_expectations,Edinburgh
+2182,Sales,Sales Manager,92300.0,15,exceeds_expectations,Manchester
+1703,Marketing,Marketing Manager,70400.0,10,exceeds_expectations,Birmingham
+1094,Engineering,Engineer,46700.0,5,exceeds_expectations,London
+2119,Operations,Operations Manager,98100.0,11,meets_expectations,Edinburgh
+1162,Engineering,Lead Engineer,88400.0,18,meets_expectations,Manchester
+1255,Engineering,Engineer,149400.0,8,exceeds_expectations,London
+1092,Engineering,Engineer,87200.0,5,exceeds_expectations,Birmingham
+1790,Marketing,Marketing Specialist,41900.0,8,exceeds_expectations,London
+2088,Operations,Senior Operations Manager,105200.0,15,exceeds_expectations,London
+1159,Engineering,Principal Engineer,142500.0,20,below_expectations,Manchester
+1611,Marketing,Brand Manager,98600.0,19,meets_expectations,Birmingham
+2138,Sales,Senior Account Manager,84600.0,12,exceeds_expectations,Edinburgh
+1487,HR,HR Advisor,48300.0,6,exceeds_expectations,London
+1708,Marketing,Brand Manager,124900.0,20,meets_expectations,London
+1803,Marketing,Marketing Manager,94900.0,11,meets_expectations,Manchester
+1596,HR,HR Advisor,67800.0,9,meets_expectations,London
+1044,Engineering,Senior Engineer,86800.0,10,below_expectations,Bristol
+1993,Operations,Operations Coordinator,88700.0,1,meets_expectations,Edinburgh
+1010,Engineering,Lead Engineer,87800.0,17,below_expectations,Edinburgh
+1249,Engineering,Senior Engineer,140800.0,14,below_expectations,Edinburgh
+2120,Operations,Operations Manager,69300.0,12,meets_expectations,Bristol
+1406,Engineering,Lead Engineer,101300.0,17,meets_expectations,London
+1246,Engineering,Lead Engineer,101400.0,19,exceeds_expectations,Bristol
+1566,HR,HR Manager,85500.0,11,below_expectations,Manchester
+1343,Engineering,Senior Engineer,111400.0,14,meets_expectations,Bristol
+2078,Operations,Operations Analyst,50600.0,6,meets_expectations,London
+1665,Marketing,Marketing Specialist,62400.0,5,below_expectations,Edinburgh
+1890,Operations,Operations Analyst,70000.0,9,below_expectations,London
+1484,HR,HR Coordinator,64000.0,4,exceeds_expectations,Manchester
+1232,Engineering,Lead Engineer,136200.0,15,exceeds_expectations,Manchester
+1447,HR,HR Business Partner,75000.0,19,below_expectations,London
+1107,Engineering,Lead Engineer,100200.0,19,exceeds_expectations,Birmingham
+1739,Marketing,Brand Manager,97800.0,20,meets_expectations,Birmingham
+1407,Engineering,Principal Engineer,129500.0,20,exceeds_expectations,Birmingham
+1612,Marketing,Marketing Coordinator,28000,0,meets_expectations,Edinburgh
+1986,Operations,Operations Manager,109000.0,14,below_expectations,Manchester
+1519,HR,HR Manager,72900.0,12,below_expectations,Birmingham
+1251,Engineering,Principal Engineer,158200.0,20,meets_expectations,Birmingham
+1087,Engineering,Senior Engineer,123300.0,13,exceeds_expectations,London
+1325,Engineering,Senior Engineer,86300.0,11,meets_expectations,Edinburgh
+1662,Marketing,Marketing Manager,87200.0,13,meets_expectations,Manchester
+1640,Marketing,Brand Manager,91700.0,15,below_expectations,Birmingham
+1797,Marketing,Marketing Coordinator,87600.0,4,meets_expectations,Birmingham
+1969,Operations,Operations Coordinator,57100.0,0,exceeds_expectations,Bristol
+1427,HR,HR Business Partner,83300.0,19,meets_expectations,London
+1193,Engineering,Engineer,102100.0,7,below_expectations,Edinburgh
+1944,Operations,Senior Operations Manager,73200.0,16,meets_expectations,Bristol
+1408,Engineering,Engineer,121300.0,8,below_expectations,Birmingham
+1069,Engineering,Engineer,85300.0,6,meets_expectations,Manchester
+2180,Sales,Sales Representative,72000.0,3,exceeds_expectations,Manchester
+2178,Sales,Senior Account Manager,95100.0,11,exceeds_expectations,Birmingham
+1789,Marketing,Marketing Manager,66000.0,11,below_expectations,Bristol
+1510,HR,HR Manager,87900.0,12,exceeds_expectations,Manchester
+1250,Engineering,Senior Engineer,82900.0,11,exceeds_expectations,Birmingham
+1026,Engineering,Principal Engineer,122700.0,20,below_expectations,Edinburgh
+1782,Marketing,Marketing Coordinator,80900.0,1,meets_expectations,Birmingham
+1513,HR,HR Business Partner,55500.0,16,exceeds_expectations,Edinburgh
+1394,Engineering,Junior Engineer,83200.0,0,meets_expectations,Manchester
+1372,Engineering,Senior Engineer,90800.0,11,meets_expectations,Manchester
+1963,Operations,Operations Coordinator,83600.0,3,exceeds_expectations,Manchester
+1147,Engineering,Principal Engineer,127100.0,20,meets_expectations,London
+1804,Marketing,Marketing Coordinator,50800.0,0,meets_expectations,Manchester
+1546,HR,HR Coordinator,68400.0,0,exceeds_expectations,Birmingham
+1115,Engineering,Junior Engineer,80800.0,2,meets_expectations,London
+1300,Engineering,Senior Engineer,86400.0,14,meets_expectations,Edinburgh
+1165,Engineering,Junior Engineer,62800.0,0,meets_expectations,Birmingham
+1677,Marketing,Brand Manager,80000.0,16,meets_expectations,Edinburgh
+1065,Engineering,Junior Engineer,94200.0,2,below_expectations,Manchester
+1950,Operations,Operations Manager,95900.0,10,meets_expectations,London
+1761,Marketing,Marketing Specialist,64000.0,6,exceeds_expectations,Manchester
+2021,Operations,Senior Operations Manager,77200.0,18,exceeds_expectations,Manchester
+1639,Marketing,Marketing Specialist,59300.0,6,meets_expectations,Edinburgh
+1861,Operations,Operations Analyst,76400.0,6,meets_expectations,Edinburgh
+1701,Marketing,Marketing Coordinator,67900.0,2,exceeds_expectations,Manchester
+1445,HR,HR Business Partner,75300.0,19,below_expectations,Bristol
+2011,Operations,Operations Analyst,76000.0,9,below_expectations,Birmingham
+1031,Engineering,Senior Engineer,150200.0,14,exceeds_expectations,Bristol
+1309,Engineering,Senior Engineer,86000.0,13,exceeds_expectations,London
+1185,Engineering,Lead Engineer,143500.0,15,below_expectations,Manchester
+1477,HR,HR Business Partner,88500.0,19,meets_expectations,Bristol
+1017,Engineering,Lead Engineer,113600.0,17,meets_expectations,Bristol
+1898,Operations,Senior Operations Manager,99700.0,19,meets_expectations,London
+1257,Engineering,Engineer,79400.0,7,meets_expectations,Bristol
+1552,HR,HR Coordinator,62100.0,1,meets_expectations,London
+1578,HR,HR Business Partner,82400.0,17,exceeds_expectations,Bristol
+1210,Engineering,Lead Engineer,149300.0,17,below_expectations,London
+1381,Engineering,Engineer,70900.0,8,exceeds_expectations,London
+1046,Engineering,Engineer,96000.0,7,below_expectations,London
+1102,Engineering,Senior Engineer,73600.0,13,meets_expectations,Birmingham
+1312,Engineering,Junior Engineer,82300.0,3,meets_expectations,Bristol
+1040,Engineering,Lead Engineer,134300.0,16,exceeds_expectations,Edinburgh
+1657,Marketing,Marketing Coordinator,79000.0,3,below_expectations,Manchester
+1385,Engineering,Senior Engineer,146400.0,10,meets_expectations,Manchester
+2133,Sales,Account Manager,84300.0,5,exceeds_expectations,Bristol
+2166,Sales,Sales Manager,109600.0,15,meets_expectations,Bristol
+1928,Operations,Senior Operations Manager,104700.0,16,meets_expectations,London
+1933,Operations,Senior Operations Manager,76400.0,16,exceeds_expectations,Birmingham
+1227,Engineering,Junior Engineer,65000.0,4,meets_expectations,Bristol
+1594,HR,HR Advisor,75700.0,8,exceeds_expectations,London
+2139,Sales,Sales Manager,84000.0,19,exceeds_expectations,London
+1374,Engineering,Lead Engineer,88900.0,17,meets_expectations,Edinburgh
+1141,Engineering,Lead Engineer,112000.0,18,meets_expectations,Edinburgh
+1386,Engineering,Junior Engineer,72100.0,4,below_expectations,Edinburgh
+1846,Operations,Senior Operations Manager,90400.0,15,meets_expectations,London
+1551,HR,HR Advisor,69100.0,7,below_expectations,Bristol
+2090,Operations,Operations Coordinator,54700.0,1,meets_expectations,Bristol
+1584,HR,HR Business Partner,102600.0,20,exceeds_expectations,Bristol
+1557,HR,HR Business Partner,85600.0,16,below_expectations,Bristol
+2059,Operations,Operations Coordinator,71200.0,4,meets_expectations,Bristol
+1491,HR,HR Business Partner,73000.0,17,exceeds_expectations,Birmingham
+1865,Operations,Senior Operations Manager,88400.0,17,meets_expectations,London
+1163,Engineering,Junior Engineer,83700.0,2,exceeds_expectations,Bristol
+1539,HR,HR Manager,70200.0,11,below_expectations,London
+1452,HR,HR Advisor,63300.0,9,meets_expectations,London
+1775,Marketing,Marketing Manager,74100.0,12,meets_expectations,Birmingham
+2183,Sales,Senior Account Manager,28000,13,exceeds_expectations,Bristol
+1335,Engineering,Senior Engineer,131600.0,10,meets_expectations,Birmingham
+1512,HR,HR Manager,71900.0,10,meets_expectations,Bristol
+1809,Marketing,Marketing Specialist,34600.0,7,meets_expectations,Manchester
+1896,Operations,Senior Operations Manager,89500.0,20,meets_expectations,Edinburgh
+1844,Operations,Operations Manager,95900.0,12,meets_expectations,Edinburgh
+1387,Engineering,Junior Engineer,93800.0,4,meets_expectations,London
+1766,Marketing,Marketing Manager,72500.0,10,below_expectations,Edinburgh
+2123,Operations,Operations Manager,86300.0,13,exceeds_expectations,London
+1015,Engineering,Principal Engineer,128500.0,20,meets_expectations,Birmingham
+1474,HR,HR Coordinator,54900.0,4,exceeds_expectations,Edinburgh
+1600,HR,HR Business Partner,76800.0,20,exceeds_expectations,Bristol
+1882,Operations,Operations Manager,83800.0,12,below_expectations,Bristol
+1019,Engineering,Engineer,117300.0,7,meets_expectations,London
+1614,Marketing,Brand Manager,111300.0,18,meets_expectations,London
+1978,Operations,Operations Analyst,78700.0,7,below_expectations,Edinburgh
+2008,Operations,Senior Operations Manager,75600.0,17,meets_expectations,Edinburgh
+1018,Engineering,Engineer,82800.0,7,meets_expectations,London
+2096,Operations,Operations Manager,68900.0,12,exceeds_expectations,Manchester
+1961,Operations,Operations Analyst,88400.0,8,meets_expectations,Edinburgh
+1588,HR,HR Coordinator,55200.0,1,meets_expectations,Bristol
+1705,Marketing,Marketing Coordinator,81000.0,0,meets_expectations,London
+1280,Engineering,Lead Engineer,121800.0,17,exceeds_expectations,Birmingham
+2072,Operations,Operations Analyst,86800.0,5,below_expectations,Manchester
+1001,Engineering,Principal Engineer,152500.0,20,meets_expectations,Manchester
+1022,Engineering,Junior Engineer,120800.0,4,meets_expectations,Manchester
+1622,Marketing,Marketing Manager,86900.0,12,below_expectations,Edinburgh
+2185,Sales,Account Manager,74000.0,9,below_expectations,London
+1533,HR,HR Advisor,57100.0,5,below_expectations,Manchester
+1845,Operations,Operations Coordinator,71400.0,4,below_expectations,Bristol
+1750,Marketing,Marketing Coordinator,65400.0,3,exceeds_expectations,London
+1631,Marketing,Marketing Manager,63200.0,10,exceeds_expectations,Bristol
+1905,Operations,Operations Coordinator,73400.0,1,meets_expectations,Birmingham
+1184,Engineering,Junior Engineer,97800.0,3,exceeds_expectations,Edinburgh
+1466,HR,HR Manager,69700.0,13,below_expectations,Birmingham
+2106,Operations,Operations Coordinator,86900.0,4,below_expectations,Birmingham
+1987,Operations,Operations Coordinator,48700.0,0,exceeds_expectations,Birmingham
+1712,Marketing,Brand Manager,88900.0,16,meets_expectations,London
+1635,Marketing,Brand Manager,95100.0,18,meets_expectations,Edinburgh
+2094,Operations,Senior Operations Manager,72100.0,18,meets_expectations,Edinburgh
+2073,Operations,Operations Analyst,70900.0,7,meets_expectations,Birmingham
+1891,Operations,Operations Analyst,86800.0,5,meets_expectations,Manchester
+2156,Sales,Senior Account Manager,84600.0,14,exceeds_expectations,London
+1936,Operations,Operations Analyst,65600.0,7,exceeds_expectations,Manchester
+1363,Engineering,Engineer,67700.0,9,meets_expectations,Manchester
+2105,Operations,Senior Operations Manager,105900.0,18,below_expectations,Bristol
+1277,Engineering,Senior Engineer,81800.0,13,meets_expectations,Birmingham
+1912,Operations,Senior Operations Manager,99400.0,17,exceeds_expectations,Manchester
+2193,Sales,Sales Representative,50800.0,2,meets_expectations,Manchester
+1558,HR,HR Advisor,74000.0,5,meets_expectations,Edinburgh
+2108,Operations,Operations Analyst,77700.0,9,exceeds_expectations,Manchester
+1957,Operations,Operations Coordinator,72400.0,1,meets_expectations,Birmingham
+1976,Operations,Senior Operations Manager,67700.0,15,meets_expectations,Birmingham
+1667,Marketing,Brand Manager,82700.0,19,below_expectations,Birmingham
+1731,Marketing,Marketing Manager,94100.0,12,meets_expectations,Manchester
+1072,Engineering,Junior Engineer,90600.0,2,meets_expectations,Bristol
+1059,Engineering,Junior Engineer,87600.0,1,meets_expectations,Edinburgh
+1350,Engineering,Lead Engineer,142400.0,19,meets_expectations,Edinburgh
+2079,Operations,Operations Coordinator,87800.0,2,meets_expectations,Bristol
+1269,Engineering,Lead Engineer,91200.0,18,meets_expectations,Manchester
+1259,Engineering,Principal Engineer,149800.0,20,below_expectations,Edinburgh
+1908,Operations,Senior Operations Manager,110000.0,18,meets_expectations,Bristol
+1582,HR,HR Manager,66400.0,14,below_expectations,Birmingham
+1507,HR,HR Manager,72100.0,10,exceeds_expectations,Bristol
+1470,HR,HR Business Partner,95500.0,19,meets_expectations,London
+1634,Marketing,Marketing Specialist,77400.0,9,exceeds_expectations,Edinburgh
+1799,Marketing,Brand Manager,98300.0,15,below_expectations,Manchester
+1173,Engineering,Senior Engineer,86600.0,10,meets_expectations,Manchester
+1319,Engineering,Junior Engineer,88200.0,2,meets_expectations,Birmingham
+1538,HR,HR Business Partner,75500.0,18,below_expectations,Edinburgh
+1213,Engineering,Senior Engineer,96400.0,14,meets_expectations,Edinburgh
+1171,Engineering,Engineer,88900.0,9,meets_expectations,Birmingham
+2074,Operations,Operations Coordinator,50700.0,4,meets_expectations,Birmingham
+2198,Sales,Account Manager,86000.0,8,exceeds_expectations,Birmingham
+1054,Engineering,Engineer,110200.0,5,meets_expectations,Manchester
+1111,Engineering,Lead Engineer,96000.0,19,exceeds_expectations,Birmingham
+2124,Operations,Senior Operations Manager,96900.0,18,meets_expectations,Bristol
+1970,Operations,Senior Operations Manager,75200.0,18,meets_expectations,Birmingham
+1131,Engineering,Engineer,86900.0,7,meets_expectations,Edinburgh
+1196,Engineering,Engineer,117400.0,7,exceeds_expectations,Bristol
+1211,Engineering,Senior Engineer,102800.0,10,exceeds_expectations,Bristol
+1814,Marketing,Marketing Specialist,70200.0,7,meets_expectations,London
+1342,Engineering,Principal Engineer,132600.0,20,below_expectations,Edinburgh
+1432,HR,HR Manager,84600.0,11,meets_expectations,London
+1164,Engineering,Lead Engineer,146100.0,19,meets_expectations,Birmingham
