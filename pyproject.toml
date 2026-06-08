@@ -3,10 +3,16 @@ name = "sophiarch-notebooks"
 version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
+    "catboost>=1.2",
+    "imbalanced-learn>=0.13",
+    "lightgbm>=4.3",
     "matplotlib>=3.10.9",
     "pandas>=3.0.2",
     "pytest",
     "scikit-learn>=1.8.0",
+    "shap>=0.46",
+    "statsmodels>=0.14",
+    "xgboost>=2.0",
 ]
 
 [tool.pytest.ini_options]
