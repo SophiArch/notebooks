@@ -12,6 +12,7 @@ dependencies = [
     "scikit-learn>=1.8.0",
     "shap>=0.46",
     "statsmodels>=0.14",
+    "torch>=2.12.0",
     "xgboost>=2.0",
 ]
 
