@@ -9,9 +9,11 @@ dependencies = [
     "lightgbm>=4.3",
     "matplotlib>=3.10.9",
     "pandas>=3.0.2",
+    "pydantic>=2",
     "pytest",
     "rank-bm25>=0.2.2",
     "scikit-learn>=1.8.0",
+    "seaborn>=0.13",
     "sentence-transformers>=6.0.1",
     "shap>=0.46",
     "statsmodels>=0.14",
@@ -19,5 +21,14 @@ dependencies = [
     "xgboost>=2.0",
 ]
 
+[dependency-groups]
+dev = [
+    "ipykernel>=6",
+    "nbclient>=0.10",
+    "nbformat>=5.10",
+]
+
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+markers = ["execute: runs the lab notebooks end to end (slow; opt in with -m execute)"]
+addopts = "-m 'not execute'"
