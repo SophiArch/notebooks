@@ -20,7 +20,7 @@ Shared data files live in `datasets/`.
 
 - Notebooks must have all cell outputs cleared before committing.
 - Labs must be self-contained: install cell and imports at the top, data generated in the notebook or read from `datasets/`.
-- Code must run on the package versions Colab ships, not only on the latest releases. Learners run labs in Colab, and an unpinned `!pip install` doesn't upgrade a package Colab already has. Colab publishes its package list in [googlecolab/backend-info](https://github.com/googlecolab/backend-info/blob/main/pip-freeze.txt).
+- Labs target the package versions Colab ships, because that's what learners run: an unpinned `!pip install` doesn't upgrade a package Colab already has. `pyproject.toml` pins those versions, so the local environment matches Colab. Don't use an API that only exists in a newer release.
 - A cell that is meant to raise an error (a `write`-lab stub, a demonstrated failure) needs the `raises-exception` cell tag.
 
 ## Testing
@@ -31,11 +31,12 @@ uv run pytest                 # fast checks: outputs cleared
 uv run pytest -m execute      # runs every lab end to end (slow)
 ```
 
-The execution test skips, with a reason, any lab that needs a package that isn't installed, or that downloads models or calls an API (set `LAB_TESTS_NETWORK=1` to include those). To check the labs against Colab's versions as well, run the same test in a separate environment with Colab's versions of the core packages (take the current versions from Colab's `pip-freeze.txt`):
+The execution test skips, with a reason, any lab that needs a package that isn't installed, or that downloads models or calls an API (set `LAB_TESTS_NETWORK=1` to include those).
 
-```bash
-uv venv .venv-colab
-uv pip install -p .venv-colab pandas==2.2.3 scikit-learn==1.6.1 numpy==2.1.3 \
-    matplotlib seaborn scipy statsmodels pydantic pytest nbclient nbformat ipykernel
-.venv-colab/bin/python -m pytest -m execute
-```
+## Keeping up with Colab
+
+Colab updates its runtime periodically. Its package list is published in [googlecolab/backend-info](https://github.com/googlecolab/backend-info/blob/main/pip-freeze.txt) (`pip-freeze.gpu.txt` for the GPU runtime, which is where `torch` has a plain version number). When it changes:
+
+1. Update the pinned versions in `pyproject.toml` to match, then run `uv lock`.
+2. Run `uv sync --group dev` and `uv run pytest -m execute`, and fix any lab that fails.
+3. Packages Colab doesn't ship (`catboost`, `faiss-cpu`, `rank-bm25`) keep a minimum version; labs install them with `!pip install`.
